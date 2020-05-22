@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
   
 baseurl: "/blog"
-url: "https://datarian-kr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://datarian-kr.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: datarian
 github_username:  datarian-kr
 
@@ -30,14 +30,13 @@ github_username:  datarian-kr
 theme: minima
 plugins:
   - jekyll-feed
+markdown:       kramdown
 
 # Assets
 sass:
   sass_dir:     _sass
   style:        :compressed
 
-# # Build settings
-# markdown:       kramdown
 
 # About
 author:
