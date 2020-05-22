@@ -27,9 +27,9 @@ twitter_username: datarian
 github_username:  datarian-kr
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# theme: minima
+# plugins:
+#   - jekyll-feed
 markdown:       kramdown
 
 # Assets
