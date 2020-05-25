@@ -9,7 +9,7 @@ post-header: true
 header-img: img/about.jpg
 ---
 
-이것 저것 합니다. </br>
+이것 저것 합니다. <br />
 인프런에 데이터 분석 관련 교육 자료를 업로드하고 있습니다.
 
 # Where to find us
