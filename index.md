@@ -18,7 +18,7 @@ description: Datarian, DA community
             <div class="underline"></div>
         </div>.
     </h1>
-    <h2 class="intro">데이터리안 코리아</h2>
+    <h2 class="intro">데이터리안</h2>
 </section>
 </div>
 {% include resume.html %}
