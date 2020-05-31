@@ -4,7 +4,7 @@ title: "Datarian"
 subtitle: "데이터리안"
 type: "About"
 author: "Datarian"
-permalink: /about
+permalink: /about/
 post-header: true
 header-img: img/about.jpg
 ---
