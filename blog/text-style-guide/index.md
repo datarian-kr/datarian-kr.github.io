@@ -6,8 +6,8 @@ type: "Text style Guide"
 blog: true
 text: true
 author: "Datarian"
-post-header: true
-header-img: "img/header.jpg"
+post-header: false
+header-img: ""
 order: 1
 ---
 
@@ -15,7 +15,7 @@ order: 1
 
 1. blog나 project tab에 글을 작성하고 싶을 때, 원하는 폴더에 새로운 폴더를 생성합니다.
 
-2. 폴더를 생성할 때는 `text-style-guide`처럼 제목(title)을 소문자 영어로 작성합니다. (띄어쓰기는 - 으로 대신해 주세요.)
+2. 폴더를 생성할 때는 `"text-style-guide"`처럼 제목(title)을 소문자 영어로 작성합니다. (띄어쓰기는 - 으로 대신해 주세요.)
 
 3. `index.md` 파일을 만들고 예시 스타일을 복붙해서 [front matter](https://jekyllrb.com/docs/front-matter/) 부분을 변경해 주세요.
 
@@ -25,4 +25,4 @@ order: 1
 
 6. 로컬에서 먼저 build 하여 확인해본 후, PR을 보냅니다.
 
-![예시이미지](img/my-image.png){: width="60%"}
+![예시이미지](img/my-image.png){: width="10%"}
