@@ -1,4 +1,31 @@
+{% for member in site.data.members.members %}
 <li class="catalogue-item transition member">
+    <p class="catalogue-type transition">
+        {{ member.role }}
+    </p>
+    <div class="catalogue-info transition">
+        <h1 class="catalogue-title">
+            {{ member.name }}
+        </h1>
+        <p class="catalogue-sub">
+            {{ member.intro }}
+        </p>
+    </div>
+    <div class="member-skill">
+        <ul>
+            {% for skill in member.skills %}
+            <li class="skill_name">
+                {{ skill }}
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</li>
+{% endfor %}
+
+
+
+<!-- <li class="catalogue-item transition member">
     {% for first in site.data.members.first-place %}
     <p class="catalogue-type transition">
         {{ first.role }}
@@ -69,4 +96,4 @@
         </ul>
     </div>
     {% endfor %}
-</li>
+</li> -->
