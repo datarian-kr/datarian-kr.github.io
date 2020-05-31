@@ -1,3 +1,13 @@
+fourth-place:
+- role: Data Analist, Developer
+  name: Yeeun Han
+  intro: 데이터 분석과 개발을 합니다. 데이터리안에서 디자인도 합니다.
+  img: 
+  skills: 
+    - DA
+    - SW develope
+    - Data visualization
+
 third-place:
 - role: Data Analist, Developer
   name: Book Book

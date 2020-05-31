@@ -70,3 +70,27 @@
     </div>
     {% endfor %}
 </li>
+<li class="catalogue-item transition member">
+    {% for fourth in site.data.members.fourth-place %}
+    <p class="catalogue-type transition">
+        {{ fourth.role }}
+    </p>
+    <div class="catalogue-info transition">
+        <h1 class="catalogue-title">
+            {{ fourth.name }}
+        </h1>
+        <p class="catalogue-sub">
+            {{ fourth.intro }}
+        </p>
+    </div>
+    <div class="member-skill">
+        <ul>
+            {% for skill in fourth.skills %}
+            <li class="skill_name">
+                {{ skill }}
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endfor %}
+</li>
