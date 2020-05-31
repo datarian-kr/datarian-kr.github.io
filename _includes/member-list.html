@@ -1,47 +1,72 @@
-<li class="workplace transition">
-    {% for third in site.data.members.third-place %}
-    <p class="workplace-name">
-        {{ third.name }}
-    </p>
-    <div class="work-info">
-        <p>
-            {{ third.role }}
-        </p>
-        <p class="work-sub-info">
-            {{ third.date }}
-        </p>
-    </div>
-    {% endfor %}
-</li>
-
-<li class="workplace transition">
-    {% for second in site.data.members.second-place %}
-    <p class="workplace-name">
-        {{ second.name }}
-    </p>
-    <div class="work-info">
-        <p>
-            {{ second.role }}
-        </p>
-        <p class="work-sub-info">
-            {{ second.date }}
-        </p>
-    </div>
-    {% endfor %}
-</li>
-
-<li class="workplace transition">
+<li class="catalogue-item transition member">
     {% for first in site.data.members.first-place %}
-    <p class="workplace-name">
-        {{ first.name }}
+    <p class="catalogue-type transition">
+        {{ first.role }}
     </p>
-    <div class="work-info">
-        <p>
-            {{ first.role }}
+    <div class="catalogue-info transition">
+        <h1 class="catalogue-title">
+            {{ first.name }}
+        </h1>
+        <p class="catalogue-sub">
+            {{ first.intro }}
         </p>
-        <p class="work-sub-info">
-            {{ first.date }}
+    </div>
+    <div class="member-skill">
+        <ul>
+            {% for skill in first.skills %}
+            <li class="skill_name">
+                {{ skill}}
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endfor %}
+</li>
+<li class="catalogue-item transition member">
+    {% for second in site.data.members.second-place %}
+    <p class="catalogue-type transition">
+        {{ second.role }}
+    </p>
+    <div class="catalogue-info transition">
+        <h1 class="catalogue-title">
+            {{ second.name }}
+        </h1>
+        <p class="catalogue-sub">
+            {{ second.intro }}
         </p>
+    </div>
+    <div class="member-skill">
+        <ul>
+            {% for skill in second.skills %}
+            <li class="skill_name">
+                {{ skill}}
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endfor %}
+</li>
+<li class="catalogue-item transition member">
+    {% for third in site.data.members.third-place %}
+    <p class="catalogue-type transition">
+        {{ third.role }}
+    </p>
+    <div class="catalogue-info transition">
+        <h1 class="catalogue-title">
+            {{ third.name }}
+        </h1>
+        <p class="catalogue-sub">
+            {{ third.intro }}
+        </p>
+    </div>
+    <div class="member-skill">
+        <ul>
+            {% for skill in third.skills %}
+            <li class="skill_name">
+                {{ skill}}
+            </li>
+            {% endfor %}
+        </ul>
     </div>
     {% endfor %}
 </li>

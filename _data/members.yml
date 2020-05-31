@@ -1,17 +1,29 @@
 third-place:
-- role:  Branding · UI Designer
+- role: Data Analist, Developer
   name: Book Book
-  intro: 2015. JUN - Present
+  intro: 데이터 분석과 개발을 합니다. 디자인을 가끔 합니다.
   img: 
+  skills: 
+    - DA
+    - SW develope
+    - Data visualization
 
 second-place:
-- role: Co-founder
-  name: Sunmi Yoon
-  intro: 
+- role: DA Education, Team Manager
+  name: Bomin Lee
+  intro: 데이터 분석을 합니다.
   img: 
+  skills: 
+    - DA
+    - SW develope
+    - Data visualization
 
 first-place:
-- role: Team Manager of UX Design, Digital Product Designer
+- role: DA Education
   name: Sunmi Yoon
-  intro: 
+  intro: 데이터 분석을 합니다.
   img: 
+  skills: 
+    - DA
+    - SW develope
+    - Data visualization
