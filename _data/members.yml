@@ -1,14 +1,17 @@
 third-place:
-- name: Book Book
-  role: Team Manager of UX Design, Digital Product Designer
-  date: 2015. JUN - Present
+- role:  Branding · UI Designer
+  name: Book Book
+  intro: 2015. JUN - Present
+  img: 
 
 second-place:
-- name: Sunmi Yoon
-  role: Co-founder, Branding · UI Designer
-  date: 2014. MAR - 2015. NOV
+- role: Co-founder
+  name: Sunmi Yoon
+  intro: 
+  img: 
 
 first-place:
-- name: QUOIN
-  role: GUI Designer
-  date: 2014. MAR - 2015. MAR
+- role: Team Manager of UX Design, Digital Product Designer
+  name: Sunmi Yoon
+  intro: 
+  img: 
