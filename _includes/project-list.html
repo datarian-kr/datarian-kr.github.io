@@ -1,47 +1,36 @@
-<li class="workplace transition">
-    {% for third in site.data.experience.third-place %}
-    <p class="workplace-name">
-        {{ third.name }}
+<div class="resume-info">
+    <p class="second-label">
+        <span class="label-emoji">
+        📚
+    </span> &nbsp; 온라인 강의
     </p>
-    <div class="work-info">
-        <p>
-            {{ third.role }}
-        </p>
-        <p class="work-sub-info">
-            {{ third.date }}
-        </p>
-    </div>
-    {% endfor %}
-</li>
+</div>
 
-<li class="workplace transition">
-    {% for second in site.data.experience.second-place %}
-    <p class="workplace-name">
-        {{ second.name }}
-    </p>
-    <div class="work-info">
-        <p>
-            {{ second.role }}
-        </p>
-        <p class="work-sub-info">
-            {{ second.date }}
-        </p>
-    </div>
+<ul>
+    {% for porj in site.data.experience.done %}
+    <li class="catalogue-info transition">
+        <a class="catalogue-tag-big" href="{{ porj.link }}">
+        {{ porj.name }}
+        </a>
+    </li>
     {% endfor %}
-</li>
+</ul>
 
-<li class="workplace transition">
-    {% for first in site.data.experience.first-place %}
-    <p class="workplace-name">
-        {{ first.name }}
+<div class="resume-info">
+    <p class="second-label">
+        <span class="label-emoji">
+        📚
+    </span> &nbsp; 기획중인 강의
     </p>
-    <div class="work-info">
-        <p>
-            {{ first.role }}
+</div>
+
+<ul>
+    {% for porj in site.data.experience.upcoming %}
+    <li class="catalogue-info transition">
+        <p class="catalogue-body">
+            {{ porj.name }}
         </p>
-        <p class="work-sub-info">
-            {{ first.date }}
-        </p>
-    </div>
+    </li>
+
     {% endfor %}
-</li>
+</ul>
