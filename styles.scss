@@ -1,8 +1,7 @@
----
-# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
-# only main files contain this front matter, not partials.
----
-
+--- 
+# Use a comment to ensure Jekyll reads the file to be transformed into CSS later 
+# only main files contain this front matter, not partials. 
+--- 
 @import 'variables';
 @import 'base';
 @import 'code';
@@ -13,3 +12,4 @@
 @import 'catalogue';
 @import 'section';
 @import 'resume';
+@import 'member';
