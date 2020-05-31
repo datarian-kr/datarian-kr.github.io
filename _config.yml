@@ -14,16 +14,15 @@ permalink:      /:year-:month-:day/:title
 
 # Setup
 title: Datarian
-email: datarian@gmail.com
+email: datarian2020@gmail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
   
-baseurl: "/blog"
+baseurl: ""
 url: "https://datarian-kr.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: datarian
 github_username:  datarian-kr
 
 # Build settings
@@ -42,14 +41,13 @@ sass:
 author:
   name:         datarian
   url:          https://datarian-kr.github.io
-  email:        datarian@gmail.com  
+  email:        datarian2020@gmail.com  
   github:       datarian-kr
-  twitter:      datarian
 
 # Custom vars
 version:        1.0.0
 github:
-  repo:         https://github.com/datarian-kr/blog
+  repo:         https://github.com/datarian-kr/datarian-kr.github.io
 
 
 
