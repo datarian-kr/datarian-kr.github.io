@@ -1,3 +1,13 @@
+fourth-place:
+- role: Designer, Developer
+  name: Yeeun Han
+  intro: 데이터리안에서 치트시트 디자인과 기획을 맡은 개발자입니다.
+  img: 
+  skills: 
+    - Data Analysis
+    - Data visualization
+    - Software development
+
 third-place:
 - role: Data Analyst, Developer
   name: Book Book
