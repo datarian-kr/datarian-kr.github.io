@@ -46,7 +46,8 @@
 .post-full-content {
     position: absolute;
     z-index: 1;
-    width: 80vw;
+    max-width: 900px;
+    width: 100%;
     min-height: 230px;
     background: #fff;
     @media (max-width: $break-small) {
