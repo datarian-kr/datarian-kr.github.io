@@ -1,64 +1,71 @@
 --- 
 layout: default 
 ---
-
-<div class="post">
-    <div class="post-info">
-        <div class="post-type-tag">
-            {% if page.draft == true %}
-            <div class="catalogue-tag">
-                Coming Soon
-            </div>
-            {% endif %}
-            <div class="post-type">
-                {{ page.type }}
-            </div>
-        </div>
-        <h1 class="post-title">
-            {{ page.title }}
-        </h1>
-        <h2 class="post-subtitle">
-            {{ page.subtitle }}
-        </h2>
+<div class="post-container">
+    <div class="post-full-content">
     </div>
-
-    <!--포트폴리오 상단 정보-->
-
-    {% if page.portfolio == true %}
-    <article class="portfolio-info">
-        <div>
-            <span class="info-title">Role</span>
-            <p class="info-medium">{{ page.role-title }}</p>
-            <p class="info-small">{{ page.role-specific }}</p>
+    <div class="post">
+        <div class="post-info">
+            <div class="post-type-tag">
+                {% if page.draft == true %}
+                <div class="catalogue-tag">
+                    Coming Soon
+                </div>
+                {% endif %}
+                <div class="post-type">
+                    {{ page.type }}
+                </div>
+            </div>
+            <h1 class="post-title">
+                {{ page.title }}
+            </h1>
+            <h2 class="post-subtitle">
+                {{ page.subtitle }}
+            </h2>
         </div>
-        <div>
-            <span class="info-title">Team</span>
-            <p class="info-medium">{{ page.team }}</p>
-        </div>
-        <div>
-            <span class="info-title">Platforms</span>
-            <p class="info-medium">{{ page.platforms }}</p>
-        </div>
-        <div>
-            <span class="info-title">Date</span>
-            <p class="info-medium">{{ page.date }}</p>
-        </div>
-    </article>
-    {% endif %}
 
-    <!--draft 일 때-->
+        <!--포트폴리오 상단 정보-->
 
-    {% if page.draft == true %}
-    <div class="catalogue-draft-message">
-        <h1>
-            &#x1F64B; Coming Soon!
-        </h1>
-        현재 열심히 글을 쓰고 있어요. 조금만 기다려주세요!
+        {% if page.portfolio == true %}
+        <article class="portfolio-info">
+            <div>
+                <span class="info-title">Role</span>
+                <p class="info-medium">{{ page.role-title }}</p>
+                <p class="info-small">{{ page.role-specific }}</p>
+            </div>
+            <div>
+                <span class="info-title">Team</span>
+                <p class="info-medium">{{ page.team }}</p>
+            </div>
+            <div>
+                <span class="info-title">Platforms</span>
+                <p class="info-medium">{{ page.platforms }}</p>
+            </div>
+            <div>
+                <span class="info-title">Date</span>
+                <p class="info-medium">{{ page.date }}</p>
+            </div>
+        </article>
+        {% endif %}
+
+        <!--draft 일 때-->
+
+        {% if page.draft == true %}
+        <div class="catalogue-draft-message">
+            <h1>
+                &#x1F64B; Coming Soon!
+            </h1>
+            현재 열심히 글을 쓰고 있어요. 조금만 기다려주세요!
+        </div>
+        {% endif %}
+
+        <!--큐레이션 영역-->
+        {{ content }}
+        <!-- autor 정보 -->
+        {% include post-footer.html %}
+
+        <!--share-->
+        {% if page.text == true %} {% include share.html %} {% endif %}
+
     </div>
-    {% endif %}
-
-    <!--큐레이션 영역-->
-    {{ content }}
-
-
 </div>

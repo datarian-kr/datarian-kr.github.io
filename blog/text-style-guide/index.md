@@ -5,9 +5,9 @@ subtitle: "글 작성 가이드"
 type: "Text Style Guide"
 blog: true
 text: true
-author: "Datarian"
-post-header: false
-header-img: ""
+author: Hanseul Wang
+post-header: true
+header-img: img/header.jpg
 order: 1
 ---
 

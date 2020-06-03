@@ -6,8 +6,10 @@
     width: 100%;
     min-height: 360px;
     background-color: $grey-2;
+    margin: 0 0 -165px;
     @media (max-width: $break-small) {
         min-height: 200px;
+        margin: 0 0 -100px;
     }
 }
 
@@ -36,9 +38,27 @@
     background-color: $grey-2;
 }
 
+.post-container {
+    display: flex;
+    justify-content: center;
+}
+
+.post-full-content {
+    position: absolute;
+    z-index: 1;
+    width: 80vw;
+    min-height: 230px;
+    background: #fff;
+    @media (max-width: $break-small) {
+        font-size: 16px;
+    }
+}
+
 //post 영역
 .post {
-    padding-bottom: 40px;
+    position: relative;
+    z-index: 2;
+    margin: 3rem auto;
     p {
         line-height: 1.8;
         margin: 0 0 10px 0;
@@ -206,6 +226,12 @@
     }
 }
 
+@media (max-width: 1170px) {
+    .post-full-content {
+        padding: 3vw 3vw 0;
+    }
+}
+
 sup {
     a.footnote {
         background: none;
@@ -246,6 +272,77 @@ sup {
     @media (max-width: $break-small) {
         font-size: 20px;
         padding: 0 0 90px 0;
+    }
+}
+
+
+/* Post Footer
+/* ---------------------------------------------------------- */
+
+.post-full-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 4rem auto;
+    padding: 4rem 0 4rem 0;
+    max-width: 840px;
+    border-top: 0.5px $orange-tp solid;
+    border-bottom: 0.5px $orange-tp solid;
+}
+
+.author-card {
+    display: flex;
+    align-items: center;
+}
+
+.author-card {
+    .author-profile-image {
+        object-fit: cover;
+        border-radius: 50%;
+        margin: 0 1rem 0 0;
+        height: 80px;
+        width: 80px;
+    }
+    .author-card-name {
+        margin: 0 0 3px 0;
+        padding: 0;
+        font-size: 1.3rem;
+    }
+    .author-card-name a {
+        color: var(--darkgrey);
+        font-weight: 700;
+    }
+    .author-card-name a:hover {
+        text-decoration: none;
+    }
+    .author-card-content h4 {
+        padding: 0;
+    }
+    .author-card-content p {
+        margin: 0;
+        color: var(--midgrey);
+        line-height: 1.3em;
+        font-size: 0.9rem;
+    }
+    .post-full-footer-right {
+        flex-shrink: 0;
+        margin-left: 20px;
+    }
+    a.author-card-button {
+        display: block;
+        padding: 9px 16px;
+        border: color(var(--midgrey) l(+20%)) 1px solid;
+        color: var(--midgrey);
+        font-size: 1.2rem;
+        line-height: 1;
+        font-weight: 500;
+        border-radius: 20px;
+        transition: all ease 0.2s;
+    }
+    .author-card-button:hover {
+        border-color: var(--blue);
+        color: var(--blue);
+        text-decoration: none;
     }
 }
 

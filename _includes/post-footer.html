@@ -1,0 +1,28 @@
+<!-- #author-->
+{% for author in site.data.members.members %} {% if author.name == page.author %}
+<div class="post-full-footer">
+    <section class="author-card">
+        {% if author.img %}
+        <img class="author-profile-image" src="{{ author.img }}" alt="{{ page.author }}" /> </br>
+        {% endif %}
+        <section class="author-card-content">
+            <h4 class="author-card-name">
+                <a href="{{ site.baseurl }}author/{{ page.author }}">
+                    {{ author.name }}
+                </a>
+            </h4>
+            {% if author.bio %}
+            <p>{{ author.bio }}</p>
+            {% else %}
+            <p>
+                Read <a href="{{ site.baseurl }}member/{{ page.author }}">more posts</a> by this author.
+            </p>
+            {% endif %}
+        </section>
+    </section>
+    <div class="post-full-footer-right">
+        <a class="author-card-button" href="{{ site.baseurl }}author/{{ page.author }}">Read More</a>
+    </div>
+</div>
+{% endif %} {% endfor %}
+<!-- /author  -->
