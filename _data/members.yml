@@ -2,7 +2,7 @@ members:
   - role: Instructor
     name: Sunmi Yoon
     intro: 데이터리안 강의에서 목소리를 맡고 있습니다.
-    img: 
+    img: ../member/img/img_sunmiyoon.jpg
     skills: 
       - Data Analysis
       - Data Analysis Education
