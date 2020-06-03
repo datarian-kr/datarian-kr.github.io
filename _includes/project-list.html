@@ -6,15 +6,25 @@
     </p>
 </div>
 
-<ul>
-    {% for porj in site.data.experience.done %}
-    <li class="catalogue-item transition">
-        <a class="catalogue-body" href="{{ porj.link }}">
-        {{ porj.name }}
-        </a>
-    </li>
-    {% endfor %}
-</ul>
+{% for proj in site.data.experience.done %}
+<div class="project-box">
+    <div class="project-info">
+        <h1 class="project-title">
+            {{proj.proj}}
+        </h1>
+    </div>
+    <ul class="project-info">
+        {% for class in proj.classes %}
+        <li class="project-item transition">
+            <a class="project-body" href="{{ class.link }}">
+            {{ class.name }}
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endfor %}
+
 
 <div class="resume-info">
     <p class="second-label">
