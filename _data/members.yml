@@ -1,8 +1,8 @@
 members:
   - role: Instructor
     name: Sunmi Yoon
-    intro: 데이터리안 강의에서 목소리를 맡고 있습니다.
-    img: ../member/img/img_sunmiyoon.jpg
+    bio: 데이터리안 강의에서 목소리를 맡고 있습니다.
+    img: /member/img/img_sunmiyoon.jpg
     skills: 
       - Data Analysis
       - Data Analysis Education
@@ -11,7 +11,7 @@ members:
 
   - role: Product Manager
     name: Bomin Lee
-    intro: 데이터 분석을 합니다.
+    bio: 데이터 분석을 합니다.
     img: 
     skills: 
       - Data Analysis
@@ -21,8 +21,8 @@ members:
 
   - role: Product Manager, Designer, Developer
     name: Yeeun Han
-    intro: 데이터리안에서 치트시트 디자인과 기획을 맡은 개발자입니다.
-    img: ../member/img/img_yeeunhan.png
+    bio: 데이터리안에서 치트시트 디자인과 기획을 맡은 개발자입니다.
+    img: /member/img/img_yeeunhan.png
     skills: 
       - Data Analysis
       - Data visualization
@@ -32,7 +32,7 @@ members:
 
   - role: Product Manager, Data Analyst
     name: Jaemin
-    intro: 추천 시스템 강의를 만듭니다.
+    bio: 추천 시스템 강의를 만듭니다.
     img: 
     skills: 
       - Data Analysis
@@ -43,8 +43,8 @@ members:
 
   - role: Data Analyst, Developer
     name: Hanseul Wang
-    intro: 데이터 분석과 개발을 합니다. 디자인을 가끔 합니다.
-    img: 
+    bio: 데이터 분석과 개발을 합니다. 디자인을 가끔 합니다.
+    img: /member/img/img_hanseulwang.jpg
     skills: 
       - Data Analysis
       - Data visualization
