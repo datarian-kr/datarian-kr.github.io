@@ -23,6 +23,8 @@ order: 1
 
 5. 이미지를 넣을 때는 `내가 만든 폴더명`/img/ 를 만든 후 이미지를 넣습니다. (png로 넣어주세요)
 
-6. 로컬에서 먼저 build 하여 확인해본 후, PR을 보냅니다.
+6. 위 배너에 멋진 이미지를 넣고 싶다 하면, post-header: true / header-img: "\[이미지 링크]" 를 해주시면 됩니다.(괜찮은 무료 이미지 사이트 : https://pixabay.com/ko/)
+
+7. 로컬에서 먼저 build 하여 확인해본 후, PR을 보냅니다.
 
 ![예시이미지](img/datarian-logo.png){: width="50%"}
