@@ -1,16 +1,16 @@
-div.memer-box {
+div.member-box {
     display: flex;
     justify-content: space-between;
     @media (max-width: $break-small) {}
 }
 
-.memer-item {}
+.member-item {}
 
-div.memer-item:nth-child(1) {
+div.member-item:nth-child(1) {
     order: 1;
 }
 
-div.memer-item:nth-child(2) {
+div.member-item:nth-child(2) {
     order: 2;
     @media (max-width: $break-medium) {
         display: none;

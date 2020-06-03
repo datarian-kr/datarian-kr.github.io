@@ -1,6 +1,6 @@
 {% for member in site.data.members.members %}
 <li class="catalogue-item transition member">
-    <div class="memer-box">
+    <div class="member-box">
         <div class="mem-item">
             <p class="catalogue-type transition">
                 {{ member.role }}
@@ -23,7 +23,7 @@
                 </ul>
             </div>
         </div>
-        <div class="memer-item">
+        <div class="member-item">
             {% if member.img != null %}
             <img class="member-img" src="{{member.img}}"> {% endif %}
         </div>

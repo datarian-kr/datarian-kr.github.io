@@ -1,0 +1,53 @@
+.project {
+    &-box {
+        //화면이 클 떄
+        @media (min-width: $break-medium) {
+            display: flex;
+            align-items: flex-start;
+        }
+    }
+    &-info {
+        list-style: none;
+        h1.project-title {
+            color: $grey-0;
+            display: block;
+            font-family: $san-serif;
+            font-size: 24px;
+            font-weight: 700;
+            line-height: 1.5;
+            letter-spacing: -0.009em;
+            position: relative;
+            @media (max-width: $break-small) {
+                font-size: 22px;
+            }
+        }
+    }
+    &-info:nth-child(1) {
+        padding: 36px 0;
+        @media (min-width: $break-medium) {
+            width: 35%;
+            order: 1;
+            padding-right: 0.8rem;
+        }
+    }
+    &-info:nth-child(2) {
+        @media (min-width: $break-medium) {
+            width: 65%;
+            order: 2;
+        }
+    }
+    &-item {
+        border-bottom: 1px solid rgba(0, 0, 0, 0.07);
+        padding: 36px 0;
+        list-style: none;
+        &:last-child {
+            border: none;
+            //        border-bottom: 1px solid $grey-2;
+        }
+    }
+    &-body:hover {
+        font-weight: 600;
+        text-decoration: underline;
+        color: $orange;
+    }
+}
