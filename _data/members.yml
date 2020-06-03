@@ -1,4 +1,5 @@
 members:
+<<<<<<< HEAD
   - role: Instructor
     name: Sunmi Yoon
     intro: 데이터리안 강의에서 목소리를 맡고 있습니다.
@@ -22,7 +23,7 @@ members:
   - role: Product Manager, Designer, Developer
     name: Yeeun Han
     intro: 데이터리안에서 치트시트 디자인과 기획을 맡은 개발자입니다.
-    img: 
+    img: ../member/img/my-image.png
     skills: 
       - Data Analysis
       - Data visualization
