@@ -34,21 +34,6 @@
                 margin: 10px 0;
             }
         }
-        .catalogue-tag-big {
-            font-family: $source;
-            display: inline-block;
-            margin: 0.3em;
-            text-transform: uppercase;
-            letter-spacing: 0.03em;
-            padding: 8px 18px;
-            font-size: 16px;
-            font-weight: 500;
-            background-color: $light-orange;
-            border-radius: 8px;
-            @media (max-width: $break-medium) {
-                margin: 10px 0;
-            }
-        }
         h1.catalogue-title {
             color: $grey-0;
             display: block;

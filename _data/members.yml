@@ -7,15 +7,19 @@ members:
       - Data Analysis
       - Data visualization
       - Software development
+    contact:
+    github:
 
   - role: Data Analyst, Developer
-    name: Book Book
+    name: Hanseul Wang
     intro: 데이터 분석과 개발을 합니다. 디자인을 가끔 합니다.
     img: 
     skills: 
       - Data Analysis
       - Data visualization
       - Software development
+    contact:
+    github:
 
   - role: Product Manager
     name: Bomin Lee
@@ -24,6 +28,8 @@ members:
     skills: 
       - Data Analysis
       - Project Management
+    contact:
+    github:
 
   - role: Instructor
     name: Sunmi Yoon
@@ -32,3 +38,5 @@ members:
     skills: 
       - Data Analysis
       - Data Analysis Education
+    contact:
+    github:
