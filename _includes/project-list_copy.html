@@ -1,0 +1,58 @@
+<div class="resume-info">
+    <p class="second-label">
+        <span class="label-emoji">
+        📚
+    </span> &nbsp; 온라인 강의
+    </p>
+</div>
+
+{% for proj in site.data.experience_copy.done %}
+<div class="project-box">
+    <div class="catalogue-info project-info">
+        <h1 class="catalogue-title">
+            {{proj.proj}}
+        </h1>
+    </div>
+    <ul>
+        {% for class in proj.classes %}
+        <li class="catalogue-item transition">
+            <a class="catalogue-body" href="{{ class.link }}">
+            {{ class.name }}
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endfor %}
+<br> {% for porj in site.data.experience_copy.done %}
+<div class="catalogue-item transition">{{proj.proj}}</div>
+<ul>
+    {% for class in proj %}
+    <li class="catalogue-item transition">
+        <a class="catalogue-body" href="{{ class.link }}">
+            {{ class.name }}
+            </a>
+    </li>
+    {% endfor %}
+</ul>
+{% endfor %}
+
+
+<div class="resume-info">
+    <p class="second-label">
+        <span class="label-emoji">
+        📚
+    </span> &nbsp; 기획중인 강의
+    </p>
+</div>
+
+<ul>
+    {% for porj in site.data.experience.upcoming %}
+    <li class="catalogue-item transition">
+        <p class="catalogue-body" style="color: light-grey;">
+            {{ porj.name }}
+        </p>
+    </li>
+
+    {% endfor %}
+</ul>
