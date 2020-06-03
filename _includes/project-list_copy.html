@@ -8,33 +8,21 @@
 
 {% for proj in site.data.experience_copy.done %}
 <div class="project-box">
-    <div class="catalogue-info project-info">
-        <h1 class="catalogue-title">
+    <div class="project-info">
+        <h1 class="project-title">
             {{proj.proj}}
         </h1>
     </div>
-    <ul>
+    <ul class="project-info">
         {% for class in proj.classes %}
-        <li class="catalogue-item transition">
-            <a class="catalogue-body" href="{{ class.link }}">
+        <li class="project-item transition">
+            <a class="project-body" href="{{ class.link }}">
             {{ class.name }}
             </a>
         </li>
         {% endfor %}
     </ul>
 </div>
-{% endfor %}
-<br> {% for porj in site.data.experience_copy.done %}
-<div class="catalogue-item transition">{{proj.proj}}</div>
-<ul>
-    {% for class in proj %}
-    <li class="catalogue-item transition">
-        <a class="catalogue-body" href="{{ class.link }}">
-            {{ class.name }}
-            </a>
-    </li>
-    {% endfor %}
-</ul>
 {% endfor %}
 
 

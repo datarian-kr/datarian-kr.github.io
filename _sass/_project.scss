@@ -1,42 +1,14 @@
 .project {
     &-box {
-        display: flex;
-    }
-    &-item {
-        border-bottom: 1px solid rgba(0, 0, 0, .07);
-        padding: 36px 0;
-        list-style: none;
-        &:last-child {
-            margin-bottom: 72px;
-            border: none;
-            //        border-bottom: 1px solid $grey-2;
+        //화면이 클 떄
+        @media (min-width: $break-medium) {
+            display: flex;
+            align-items: flex-start;
         }
-    }
-    &-type {
-        color: $orange;
-        font-size: 18px;
-        font-family: $source;
-        font-weight: 600;
-        margin-bottom: 10px;
     }
     &-info {
-        flex .catalogue-tag {
-            font-family: $source;
-            display: inline-block;
-            margin-bottom: 2px;
-            text-transform: uppercase;
-            letter-spacing: 0.03em;
-            padding: 4px 7px;
-            font-size: 13px;
-            font-weight: 800;
-            margin-bottom: 10px;
-            background-color: $yellow;
-            border-radius: 8px;
-            @media (max-width: $break-medium) {
-                margin: 10px 0;
-            }
-        }
-        h1.catalogue-title {
+        list-style: none;
+        h1.project-title {
             color: $grey-0;
             display: block;
             font-family: $san-serif;
@@ -49,25 +21,33 @@
                 font-size: 22px;
             }
         }
-        @media (max-width: $break-medium) {
-            display: block;
-            width: 100%;
-        }
-        .catalogue-sub {
-            font-size: 18px;
-            color: $grey-1;
-            line-height: 1.75;
-            padding-bottom: 24px;
-            @media (max-width: $break-small) {
-                font-size: 16px;
-            }
-        }
-        p.catalogue-body {
-            font-size: 16px;
-            color: $grey-1;
+    }
+    &-info:nth-child(1) {
+        padding: 36px 0;
+        @media (min-width: $break-medium) {
+            width: 35%;
+            order: 1;
+            padding-right: 0.8rem;
         }
     }
-    .catalogue-draft-message {
-        text-align: center;
+    &-info:nth-child(2) {
+        @media (min-width: $break-medium) {
+            width: 65%;
+            order: 2;
+        }
+    }
+    &-item {
+        border-bottom: 1px solid rgba(0, 0, 0, 0.07);
+        padding: 36px 0;
+        list-style: none;
+        &:last-child {
+            border: none;
+            //        border-bottom: 1px solid $grey-2;
+        }
+    }
+    &-body:hover {
+        font-weight: 600;
+        text-decoration: underline;
+        color: $orange;
     }
 }
