@@ -2,7 +2,7 @@
 layout: post
 title:  "데이터리안 블로그 글 작성 방법"
 subtitle: "글 작성 가이드"
-type: "Text style Guide"
+type: "Text Style Guide"
 blog: true
 text: true
 author: "Datarian"
@@ -13,9 +13,9 @@ order: 1
 
 ## 📚 how to write post
 
-1. blog나 project tab에 글을 작성하고 싶을 때, 원하는 폴더에 새로운 폴더를 생성합니다.
+1. blog 폴더에 새로운 폴더를 생성합니다.
 
-2. 폴더를 생성할 때는 `"text-style-guide"`처럼 제목(title)을 소문자 영어로 작성합니다. (띄어쓰기는 - 으로 대신해 주세요.)
+2. 폴더를 생성할 때는 `"text-style-guide"`처럼 폴더명을 소문자 영어로 작성합니다. (띄어쓰기는 - 으로 대신해 주세요.)
 
 3. `index.md` 파일을 만들고 예시 스타일을 복붙해서 [front matter](https://jekyllrb.com/docs/front-matter/) 부분을 변경해 주세요.
 
