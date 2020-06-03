@@ -1,24 +1,32 @@
 {% for member in site.data.members.members %}
 <li class="catalogue-item transition member">
-    <p class="catalogue-type transition">
-        {{ member.role }}
-    </p>
-    <div class="catalogue-info transition">
-        <h1 class="catalogue-title">
-            {{ member.name }}
-        </h1>
-        <p class="catalogue-sub">
-            {{ member.intro }}
-        </p>
-    </div>
-    <div class="member-skill">
-        <ul>
-            {% for skill in member.skills %}
-            <li class="skill_name">
-                {{ skill }}
-            </li>
-            {% endfor %}
-        </ul>
+    <div class="memer-box">
+        <div class="mem-item">
+            <p class="catalogue-type transition">
+                {{ member.role }}
+            </p>
+            <div class="catalogue-info transition">
+                <h1 class="catalogue-title">
+                    {{ member.name }}
+                </h1>
+                <p class="catalogue-sub">
+                    {{ member.intro }}
+                </p>
+            </div>
+            <div class="member-skill">
+                <ul>
+                    {% for skill in member.skills %}
+                    <li class="skill_name">
+                        {{ skill }}
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        <div class="memer-item">
+            {% if member.img != null %}
+            <img class="member-img" src="{{member.img}}"> {% endif %}
+        </div>
     </div>
 </li>
 {% endfor %}

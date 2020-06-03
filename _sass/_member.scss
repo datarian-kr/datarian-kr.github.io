@@ -1,3 +1,19 @@
+div.memer-box {
+    display: flex;
+    justify-content: space-between;
+    @media (max-width: $break-small) {}
+}
+
+.memer-item {}
+
+div.memer-item:nth-child(1) {
+    order: 1;
+}
+
+div.memer-item:nth-child(2) {
+    order: 2;
+}
+
 div.member-skill {
     svg {
         width: 24px;
@@ -15,4 +31,8 @@ div.member-skill {
     }
 }
 
-div.member-img {}
+.member-img {
+    height: 176px;
+    object-fit: cover;
+    border-radius: 50%;
+}
