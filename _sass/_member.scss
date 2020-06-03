@@ -12,6 +12,9 @@ div.memer-item:nth-child(1) {
 
 div.memer-item:nth-child(2) {
     order: 2;
+    @media (max-width: $break-medium) {
+        display: none;
+    }
 }
 
 div.member-skill {
