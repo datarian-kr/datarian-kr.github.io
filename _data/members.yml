@@ -62,3 +62,12 @@ members:
       - Software development
     contact:
     github:
+
+  - role: Data Analyst
+    name: Minju
+    bio: 데이터 분석을 합니다.
+    img: 
+    skills: 
+      - Data Analysis
+    contact:
+    github: https://github.com/kim4pb
