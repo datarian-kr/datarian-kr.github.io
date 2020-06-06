@@ -51,3 +51,14 @@ members:
       - Software development
     contact:
     github:
+
+  - role: Data Analyst, Developer
+    name: Dahye Kim
+    bio: 데이터 분석과 개발을 합니다. 디자인을 가끔 합니다.
+    img: /member/img/img_hanseulwang.jpg
+    skills: 
+      - Data Analysis
+      - Data visualization
+      - Software development
+    contact:
+    github:
