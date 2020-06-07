@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "데이터리안 블로그 글 작성 방법"
-subtitle: "글 작성 가이드"
-type: "Text Style Guide"
+title:  "블로그 글 작성 가이드"
+subtitle: "데이터리안 멤버들을 위한 포스팅 요령"
+type: "How to write a poast"
 blog: true
 text: true
 author: Hanseul Wang
 post-header: true
 header-img: img/header.jpg
-order: 1
+order: 2
 ---
 
-## 📚 how to write post
+## 📚 how to write a post
 
 1. blog에 글을 작성하고 싶을 때, 원하는 폴더에 새로운 폴더를 생성합니다.
 
@@ -27,4 +27,4 @@ order: 1
 
 7. 로컬에서 먼저 build 하여 확인해본 후, PR을 보냅니다.
 
-![예시이미지](img/datarian-logo.png){: width="50%"}
+![예시이미지](img/datarian-logo.png){: width="100%"}
