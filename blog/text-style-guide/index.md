@@ -2,7 +2,7 @@
 layout: post
 title:  "블로그 글 작성 가이드"
 subtitle: "데이터리안 멤버들을 위한 포스팅 요령"
-type: "How to write a poast"
+type: "How to write a post"
 blog: true
 text: true
 author: Hanseul Wang
