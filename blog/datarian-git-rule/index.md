@@ -16,30 +16,32 @@ order: 1
     
     ![fork](./img/fork.png)
 
-&nbsp;
+    &nbsp;
 
-2. 로컬에 fork한 respository를 불러오기 위해 원하는 이름으로 폴더를 만들어주세요! 저는 datarian_blog란 이름으로 만들었습니다.
-    
-    ![local-folder](./img/local-folder.png)
 
-&nbsp;
-
-3. 터미널을 켜서 방금 만든 폴더의 위치로 이동한 뒤 ` git clone 주소 ` 명령으로 fork한 repository를 clone합니다.
+2. 터미널을 켜서 `git clone 주소` 명령으로 fork한 repository를 clone합니다.
     
     ![clone](./img/clone.png)
 
-&nbsp;
+    &nbsp;
 
-4. `git pull upstream master` 명령으로 최신 상태로 갱신해줍니다.
-    
-    - 방금 막 만들었다면 최신 상태일거에요.
+3. `git remote add upstream 주소` 명령을 입력해서 upstream을 추가해주세요.
 
-    - upstream이 없다면(전 없더라고요.) 터미널에 `git remote add upstream 주소` 명령을 입력해서 upstream을 추가해주세요.
+    ![add_upstream](./img/add_upstream.png)
 
-    - `git remote -v` 로 upstream이 있는지 확인하세요.(안해도 됨)
+    - `git remote -v` 로 upstream이 추가 되었는지 확인합니다.
 
+        ![remote](./img/remote.png)
 
-&nbsp;
+    - `git pull upstream master` 명령으로 최신 상태를 반영합니다.
+
+    &nbsp;
+
+4. `git checkout -b 브랜치이름` 명령으로 새로운 브랜치를 생성합니다.
+
+    ![blog-update](./img/blog_update.png)
+
+    &nbsp;
 
 
 ### 그럼 이제 Members tab에 나를 추가해볼까요?
@@ -73,12 +75,6 @@ order: 1
 
 5. 내가 의도한 대로 잘 되었다면 터미널로 가봅시다.
 
-    - 내가 파일을 수정하는 동안 멤버 누군가가 블로그를 업데이트 했을 수도 있습니다. `git pull upstream master` 명령으로 최신 상태를 반영합니다.
-
-    - `git checkout -b 브랜치이름` 명령으로 새로운 브랜치를 생성합니다.
-
-        ![blog-update](./img/blog_update.png)
-
     - `git status` 명령으로 commit할 파일(untracked 파일)을 확인합니다.
 
         ![status](./img/status.png)
@@ -93,7 +89,7 @@ order: 1
 
         ![commit](./img/commit.png)
 
-    - `git push origin 브랜치이름` 명령으로 내가 만든 브랜치에 push합니다.
+    - `git push origin 브랜치이름` 명령으로 내가 만든 브랜치를 origin에 push합니다.
 
         ![push](./img/push.png)
 
@@ -103,22 +99,20 @@ order: 1
 
     - **혹쉬 브랜치를 만들지 않고 master 브랜치에서 commit을 했다면 <https://datarian-kr.github.io/blog/commit-at-master/> 로 가서 구원받으세요.**
 
-6. github에 들어가서 pull request를 보내고 merge를 합니다.
+6. github에 들어가서 pull request를 보냅니다.
 
     ![pr](./img/pr.png)
 
     ![create_pr](./img/create_pr.png)
 
-    *본인에게 merge 권한이 있다면 merge 해주세요!*
-    ![merge](./img/merge.png)
+    - pull request를 보내고 슬랙 #blog 채널에서 리뷰를 요청해주세요.
 
-7. 내가 만든 브랜치를 삭제합니다.
+    - 특정 리뷰어를 지정해서 리뷰를 요청할 수도 있습니다.
 
-    - merge를 하고나면 *delete branch* 버튼이 생겨서 바로 삭제가 가능해요.
+    
 
-        ![delete](./img/delete.png)
+7. **merge가 완료되면** `git branch -D 브랜치이름` 명령으로 내가 만든 브랜치를 삭제합니다.
 
-    - 로컬 브랜치는 터미널에서 `git branch -D 브랜치이름`으로 삭제합니다.
 
 &nbsp;
 
