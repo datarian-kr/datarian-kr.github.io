@@ -55,7 +55,7 @@ members:
   - role: Data Analyst
     name: Dahye Kim
     bio: 주니어 데이터 분석가 & 데이터리안에서 머신러닝 강의 기획을 합니다.
-    img: 
+    img: /member/img/img_dahyekim.jpg
     skills: 
       - Data Analysis
       - Project Management
