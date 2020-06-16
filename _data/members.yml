@@ -11,13 +11,13 @@ members:
 
   - role: Product Manager
     name: Bomin Lee
-    bio: 주니어 데이터 분석가 & 데이터리안 강의 기획자
-    img: 
+    bio: 주니어 데이터 분석가, 데이터리안 강의 기획자, 레몬 러버 입니다.
+    img: /member/img/img_bominlee.jpg
     skills: 
       - Data Analysis
       - Project Management
-    contact:
-    github:
+    contact: bominlee24@gmail.com
+    github: https://github.com/springkind
 
   - role: Product Manager, Designer, Developer
     name: Yeeun Han
