@@ -16,8 +16,8 @@ order: 6
 &nbsp;
 
 <img src="./img/hyperparameter_tuning.png" alt="drawing" width="800"/>
-<center> Bergstra, James, and Yoshua Bengio. "Random search for hyper-parameter optimization." </center>
-<center> The Journal of Machine Learning Research 13.1 (2012): 281-305. </center>
+Bergstra, James, and Yoshua Bengio. "Random search for hyper-parameter optimization." 
+The Journal of Machine Learning Research 13.1 (2012): 281-305.
 
 &nbsp;
 
@@ -161,7 +161,7 @@ Grid Search와 비교해 어떤 장점이 있을 수 있을까요? 만약에 우
 
 &nbsp;
 ![grid](./img/grid.png)
-<center> https://srdas.github.io/DLBook/DL_images/HPO1.png </center>
+[source](https://srdas.github.io/DLBook/DL_images/HPO1.png)
 &nbsp;
 
 Grid를 더 촘촘하게 만들면 되지 않을까? 생각할수도 있습니다. 좋은 접근 방법입니다! 우리가 계속 예로 들고 있는 Lasso 모델의 경우에는 하이퍼파라미터가 정규화 계수 하나밖에 없기 때문에 grid를 더 촘촘하게 만들어서 시도해보는 것도 나쁘지 않을 것 같습니다. 하지만 찾아야 하는 하이퍼파라미터가 여러개라고 생각하면 이야기가 좀 달라집니다. 하이퍼파라미터 하나 당 그리드를 10개만 만든다고 하여도 실험해야 하는 하이퍼파라미터가 2개라면 시도해보아야 하는 경우의 수는 10의 제곱개니까 100개, 실험해야 하는 하이퍼파라미터가 3개라면 1000개, 10000개, 이렇게 기하급수적으로 경우의 수가 늘어납니다. 여기에 그리드를 더 촘촘하게 만든다면요? 정말 어마어마한 경우의 수를 연산해야 할겁니다. 모델 하나 튜닝하자고 몇 년을 써야 하는 상황이 올 수도 있겠네요. 이런 상황에서 Random Search는 더 빛을 발합니다.
