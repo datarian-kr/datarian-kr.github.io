@@ -92,6 +92,15 @@ members:
     github: https://github.com/yeseul0806
 
   - role: Data Analyst
+    name: Sooyeon Lee :)
+    bio: 미래의 불확실성을 즐겨보기로한 Junior Data Analyst
+    img: /member/img/img_sooyeon.jpg
+    skills: 
+      - Data Analysis(SAS, Python)
+    contact: yololife.sy@gmail.com
+    github: https://github.com/Celine96
+
+  - role: Data Analyst
     name: Bokyung Jung
     bio: 모든 것이 새롭고 즐거운 Junior Data Analyst
     img: 
@@ -99,3 +108,4 @@ members:
       - Data Analysis
     contact: alicebk221@gmail.com
     github: https://github.com/alicebk221
+
