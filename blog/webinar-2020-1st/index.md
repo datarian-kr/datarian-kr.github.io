@@ -8,7 +8,7 @@ text: true
 author: Bomin Lee
 post-header: true
 header-img: img/ppt/header.jpg
-order: 1
+order: 2
 ---
 ✨ 2020년 11월 29일 일요일 나른한 오후, 코로나 시대에 치열하게 살아가고 있는 각 산업군의 주니어 데이터 분석가들이 소소한 수다회를 열었습니다. 재미와 감동이 그리고 비대면의 아쉬움이 듬뿍 묻어난 웨비나에서 어떤 사람들이 도란도란 이야기를 나누었는지 한번 확인해볼까요?  
 
@@ -222,4 +222,4 @@ order: 1
 <span style="color:white">.</span>  
 
 [➡️ 2020 현업 분석가 3인 선데이 아점 토크 _ 2화  
-'분석가들의 일과 삶 그리고 성취에 대하여'에서 이어집니다.](https://datarian-kr.github.io/blog/webinar-2020-1st)
+'분석가들의 일과 삶 그리고 성취에 대하여'에서 이어집니다.](https://datarian-kr.github.io/blog/webinar-2020-2nd)

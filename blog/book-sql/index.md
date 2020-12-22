@@ -8,7 +8,7 @@ text: true
 author: Sunmi Yoon
 post-header: 
 header-img: 
-order: 5
+order: 6
 ---
 
 안녕하세요! 아마 이 포스트를 보시는 분들의 대부분은 데이터리안의 SQL 강의를 수강하신 분들이겠지요? 아직 강의 수강 전이시라면 [여기](https://www.inflearn.com/roadmaps/334)를 참고해주세요. 데이터를 분석하는 직군이 쓸 만한 SQL 기능들을 정리해 기초, 중급, 고급의 단계별로 강의를 구성했습니다.
