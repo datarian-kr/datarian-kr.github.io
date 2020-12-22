@@ -8,7 +8,7 @@ text: true
 author: Sunmi Yoon
 post-header: 
 header-img: 
-order: 6
+order: 7
 ---
 
 이 글을 보시는 분들은 아마 데이터리안의 추천 시스템 강의인 [개념부터 실습까지] 추천 시스템 입문편을 수강하시는 분들일 것 같습니다. 아직 강의를 보지 않으셨다면 [여기](https://www.inflearn.com/course/%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9E%85%EB%AC%B8%ED%8E%B8)를 참고해주세요. 

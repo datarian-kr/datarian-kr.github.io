@@ -8,7 +8,7 @@ text: true
 author: Bomin Lee
 post-header: 
 header-img: 
-order: 1
+order: 8
 ---
 
 ![mail_from_inflearn](img/mail.png)
