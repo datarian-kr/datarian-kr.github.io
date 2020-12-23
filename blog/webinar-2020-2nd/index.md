@@ -269,5 +269,5 @@ order: 3
 <span style="color:white">.</span>  
 <span style="color:white">.</span>  
 
-➡️ 2020 현업 분석가 3인 선데이 아점 토크 _ 3화  
-'좋은 데이터 분석가란? 데이터 분석 교육에 대한 소회'에서 이어집니다.
+[➡️ 2020 현업 분석가 3인 선데이 아점 토크 _ 3화  
+'좋은 데이터 분석가란? 데이터 분석 교육에 대한 소회'에서 이어집니다.](https://datarian-kr.github.io/blog/webinar-2020-3rd)
