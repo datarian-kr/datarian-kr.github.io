@@ -221,7 +221,5 @@ order: 5
 감사합니다.
 
 <span style="color:white">.</span>  
-<span style="color:white">.</span>  
-<span style="color:white">.</span>  
 
-[➡️ 2020 현업 분석가 3인 선데이 아점 토크 _ 3화 다시 보러가기](./3rd_post)
+[⬅️ 2020 현업 분석가 3인 선데이 아점 토크 _ 3화 다시 보러가기](./3rd_post)
