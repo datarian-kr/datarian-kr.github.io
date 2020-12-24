@@ -163,7 +163,7 @@ order: 2
 <center>👏 👏🏻 👏🏽 👏🏾 👏🏿</center>
 <span style="color:white">.</span>  
 
-![1부 소개](../webinar-2020-1st/img/ppt/chapter_1.png){: width="100%"}
+![1부 소개](img/ppt/chapter_1.png){: width="100%"}
 ![yun](img/emoji/shine.png){: width="15%"}
 세 분 자기소개 감사합니다.  
 그러니까 가오리님은 원래 창업을 하셨었는데 지금은 데이터 분석가를 하고 계시고, 배님은 성적 맞춰서 선택을 했지만 어쨌든 데이터 분석가를 위해서 길러진 완성형 인재 같은 느낌으로 대학을 다니셨고, 사또님은 시인이시다.  
