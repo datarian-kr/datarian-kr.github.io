@@ -16,7 +16,7 @@ order: 2
 ![메인커버](img/ppt/main.png){: width="100%"}
 
 
-![king](img/emoji/king.png){: width="15%"}
+![king](img/emoji/king.png){: width="50%"}
 안녕하세요. 데이터 분석가 3인의 아점 토크에 오신 것을 환영합니다.
 저는 데이터리안에서 디자인과 개발을 가끔 하고 있는 킹이라고 합니다.
 이번에 사회를 맞게 되었습니다. 랜선 너머로 인사드립니다. 반갑습니다!
@@ -30,7 +30,7 @@ order: 2
 
 ![keynote](img/ppt/keynote.png){: width="100%"}
 
-![sseum](img/emoji/writing.png){: width="15%"}
+![sseum](img/emoji/writing.png){: width="50%"}
 
 안녕하세요. 저는 데이터리안의 씀입니다. 다들 2020년을 잘 보내주고 계신가요?
 올해는 특별히 유난한 한해였잖아요. 킹님이 앞서 말씀하신 대로 실제로 여러분을 만나서 이런 에너지를 주고 받을 수 없는 점이 저도 굉장히 아쉬운데요. 이렇게 온라인상으로나마 만나뵙게되어 정말 반갑습니다.  
@@ -49,7 +49,7 @@ order: 2
 <span style="color:white">.</span>  
 요즘 시대에 데이터가 중요하다고 외치지 않는 회사, 데이터 분석가가 필요하다고 외치지 않는 회사가 없는데. 그에 비해서 그래서 데이터를 어떻게 수집하고 정제하고 분석하고 그 결과를 다시 또 어떻게 의사 결정에 사용하고 있는지에 대해서는 관련한 이야기를 비교적 찾아보기가 어려운 것 같아요. 그런 쉽게 들을 없는 이야기들을 들려주실 연사자분들께 미리 감사의 말씀을 드리고요. 웨비나에 참여하신 분들께서도 오픈카톡방으로 실시간으로 많은 질문들과 이야기들을 나눠주셨으면 좋겠습니다. 감사합니다.  
 
-![king](img/emoji/king.png){: width="15%"}
+![king](img/emoji/king.png){: width="50%"}
 
 네, 감동의 개회사 잘 들었습니다.
 키노트를 진행해주셨던 씀님과 인터뷰를 진행해주실 윤님께 마이크를 넘겨 본격적으로 인터뷰를 진행해보도록 하겠습니다. 
@@ -57,25 +57,25 @@ order: 2
 <span style="color:white">.</span>  
 ![목차](img/ppt/list.png){: width="100%"}  
 
-![yun](img/emoji/shine.png){: width="15%"}
+![yun](img/emoji/shine.png){: width="50%"}
 
 안녕하세요 저는 오늘 인터뷰 진행을 맡은 윤이고요. 씀님?
 
-![sseum](img/emoji/writing.png){: width="15%"}
+![sseum](img/emoji/writing.png){: width="50%"}
 
 앗. 제가 키노트에서 인터뷰어로 배경을 바꾸고 오느라 잠시 딴 생각을 했어요.  
 네, 저는 방금 키노트를 했던 씀이고요. 윤님을 도와 인터뷰를 좀 더 다이나믹하게 만들 예정입니다.
 
-![yun](img/emoji/shine.png){: width="15%"}
+![yun](img/emoji/shine.png){: width="50%"}
 
 좋습니다. 키노트를 들으면서 작년에 공덕 창업센터 급식실에서 제가 씀님이랑 둘이 밥 먹으면서 이걸 계속 하는 게 맞는지 우리가 지금 뭘하고 있는건지 고민했던 게 엊그제 같이 느껴졌는데요. 이렇게 또 같이 진행을 보고 있으니 감회가 새롭네요.
 
-![sseum](img/emoji/writing.png){: width="15%"}
+![sseum](img/emoji/writing.png){: width="50%"}
 
 맞습니다. 음식이 맛이 없어서 그랬냐고 물어보셨는데 음식 때문은 아니었고요.  
 하여간, 그 때 생각이 난다.
 
-![yun](img/emoji/shine.png){: width="15%"}
+![yun](img/emoji/shine.png){: width="50%"}
 
 그때 고민하던 우리들이 생각이 난다. 이런 얘기를 잠시 해봤습니다.
 사실 이 행사의 주인공들은 저랑 씀님이 아니거든요. 오늘 인터뷰이로 참여를 해주신 세분이 주인공이신데요. 세 분을 한 번 모셔보겠습니다.
@@ -83,7 +83,7 @@ order: 2
 <span style="color:white">.</span>  
 ![hi](img/ppt/hi.png){: width="100%"}
 
-![gaori](img/emoji/manta.png){: width="15%"}
+![gaori](img/emoji/manta.png){: width="50%"}
 안녕하세요, 제가 그럼 먼저 자기소개를 해보겠습니다. 잘 들리시나요?  
 저는 데이터리안의 가오리라고 합니다.  
 저희가 자기 소개를 할 때 어떤 일을 하고 있는지, 제가 일하는 회사는 어떤 배경을 가지고 있는지 그리고 제가 데이터 분석가가 되기로 결심한 이유에 대해서 이야기를 해드리려고 해요.  
@@ -97,11 +97,11 @@ order: 2
 음, 그리고 제가 데이터 분석가를 하기로 결심했던 이유는. 조금 긴 얘기인데요.  
 
 <span style="color:white">.</span>  
-![yun](img/emoji/shine.png){: width="15%"}
+![yun](img/emoji/shine.png){: width="50%"}
 엄청 긴 얘기에요. 밤을 새도 모자랄 얘긴데.. 짧게 소개해주세요.  
 
 <span style="color:white">.</span>  
-![gaori](img/emoji/manta.png){: width="15%"}
+![gaori](img/emoji/manta.png){: width="50%"}
 네, 최대한 짧게 해보겠습니다.  
 저는 일단 대학을 졸업하고 나서 바로 창업을 했어요. 되게 작은 팀이었는데, 저희 팀이 2년 정도 일을 하다가 좀 더 큰 스타트업에 합병이 되었고, 조금 더 큰 조직에서 일을 하게 되었었는데요. 일을 하다보니까 제 포지션이 운영이나 COO같은 영역의 일이었어요. 이게 사실은 전문적인 스킬이 없는 사람이 맡는 포지션이에요.  
 <span style="color:white">.</span>  
@@ -114,13 +114,13 @@ order: 2
 <span style="color:white">.</span>  
 
 
-![bae](img/emoji/pear.png){: width="15%"}
+![bae](img/emoji/pear.png){: width="50%"}
 제가 그럼 이어서 이야기를 해볼까요.  
 
-![yun](img/emoji/shine.png){: width="15%"}
+![yun](img/emoji/shine.png){: width="50%"}
 네! 이어서 해주세요 배님.  
 
-![bae](img/emoji/pear.png){: width="15%"}
+![bae](img/emoji/pear.png){: width="50%"}
 안녕하세요, 저는 데이터리안의 배라고 하고요.
 저는 현재 식품 이커머스에서 데이터 분석가이고, 지금 일한 지는 한 7개월 정도 되는 신입 데이터 분석가입니다.  
 <span style="color:white">.</span>  
@@ -134,20 +134,20 @@ order: 2
 <span style="color:white">.</span>  
 그런데 사실 데이터 분석가라는 것도 데이터를 통해서 분석을 하고 인사이트를 얻어서 스토리텔링까지 하는 게 분석가의 업무잖아요. 그런 과정, 전체 사이클이 굉장히 재미있고 저한테 잘 맞는다고 생각이 들어서 데이터 분석가 직무를 갖게 되었습니다.  
 
-![yun](img/emoji/shine.png){: width="15%"}
+![yun](img/emoji/shine.png){: width="50%"}
 만족하고 계시나요?
 
-![bae](img/emoji/pear.png){: width="15%"}
+![bae](img/emoji/pear.png){: width="50%"}
 현재로서는 만족 음.. 60% 정도 만족 하고 있습니다. 50%가 넘으면 높은 거에요.
 
 <span style="color:white">.</span>  
 <center>👏 👏🏻 👏🏽 👏🏾 👏🏿</center>  
 <span style="color:white">.</span>  
 
-![yun](img/emoji/shine.png){: width="15%"}
+![yun](img/emoji/shine.png){: width="50%"}
 그럼 이어서 사또님 자기소개 부탁드려요.
 
-![satto](img/emoji/gat.png){: width="15%"}
+![satto](img/emoji/gat.png){: width="50%"}
 안녕하세요 저는 사또라고 합니다.  
 데이터리안이라는 커뮤니티를 윤님을 꼬셔서 함께 만든 장본인이고요.  
 <span style="color:white">.</span>  
@@ -164,7 +164,7 @@ order: 2
 <span style="color:white">.</span>  
 
 ![1부 소개](img/ppt/chapter_1.png){: width="100%"}
-![yun](img/emoji/shine.png){: width="15%"}
+![yun](img/emoji/shine.png){: width="50%"}
 세 분 자기소개 감사합니다.  
 그러니까 가오리님은 원래 창업을 하셨었는데 지금은 데이터 분석가를 하고 계시고, 배님은 성적 맞춰서 선택을 했지만 어쨌든 데이터 분석가를 위해서 길러진 완성형 인재 같은 느낌으로 대학을 다니셨고, 사또님은 시인이시다.  
 이렇게 멋있는 세 분을 모셔놓고 인터뷰를 하게 되니 너무너무 재미있네요.  
@@ -172,34 +172,34 @@ order: 2
 <span style="color:white">.</span>  
 ![자기소개 직후 질문1](img/ppt/1.png){: width="100%"}
 
-![yun](img/emoji/shine.png){: width="15%"}
+![yun](img/emoji/shine.png){: width="50%"}
 그럼 이미 워밍업이 다 된 것 같고 입도 다 풀린 것 같긴한데 조금만 더 입을 풀어볼겸. 웨비나 신청자분들께서 사전 질문으로 해주신 것들에 대해 간단하게 답변을 해보는 시간을 먼저 가지면 좋을 것 같아요. 제가 질문을 읽어드릴테니까 답변하고 싶으신 분이 계시면 자유롭게 제가 대답하겠습니다 하고 대답을 해주시면 됩니다.  
 <span style="color:white">.</span>  
 첫 번째로 가벼운 것 부터 해봅시다. 월요일에 출근하게 하는 힘(월급 제외)은 무엇인가요?  
 
-![sseum](img/emoji/writing.png){: width="15%"}
+![sseum](img/emoji/writing.png){: width="50%"}
 있을 수가 있나요? 정말 궁금하네요.  
 
-![satto](img/emoji/gat.png){: width="15%"}
+![satto](img/emoji/gat.png){: width="50%"}
 저는 빠지겠습니다.  
 월급 넣어주시면 안돼요? 아니 왜 월급을 제외하시는거죠?  
 
-![bae](img/emoji/pear.png){: width="15%"}
+![bae](img/emoji/pear.png){: width="50%"}
 맞아요.  
 
-![yun](img/emoji/shine.png){: width="15%"}
+![yun](img/emoji/shine.png){: width="50%"}
 그럼 다들 월요일에 출근하게 하는 힘이 월급을 제외하면 없다?  
 
-![gaori](img/emoji/manta.png){: width="15%"}
+![gaori](img/emoji/manta.png){: width="50%"}
 아, 하나 있는데. 그냥 이제 관성.. 정도?  
 
-![yun](img/emoji/shine.png){: width="15%"}
+![yun](img/emoji/shine.png){: width="50%"}
 월급을 제외하면 관성이 있다. 💫  
 <span style="color:white">.</span>  
 음.. 그럼 빠르게 두번째 질문으로 넘어가 볼게요. 본인의 어떤 특성이 데이터 분석가에 맞는다는 생각이 드시나요? 혹시 답변해주실 분 계신가요?  
 
 <span style="color:white">.</span>  
-![gaori](img/emoji/manta.png){: width="15%"}
+![gaori](img/emoji/manta.png){: width="50%"}
 제가 답변하고 싶은데요. 가오리입니다.  
 아까 참여자분께서 질문주신 거랑 연관해서 답변드릴 수 있을 것 같아서요. 제가 데이터 분석을 배우면서 재미를 느꼈다고 했는데, 그게 어떤 점에서 재미를 느꼈었는지를 물어보셨었거든요.  
 <span style="color:white">.</span>  
@@ -208,10 +208,10 @@ order: 2
 데이터에서 답을 찾는다는 표현을 많이 쓰는데요. 제가 창업을 했을 때는 데이터에 대해서 잘 모르기도 했고, 어떻게 해야하는지 아무것도 모르는 상태에서 거의 뇌피셜로 일을 많이 했어요. 사실 많은 분들이 지금도 그렇게 하고 계시겠지만. 왠지 이럴 것 같은데? 고객들이 이렇게 하면 좋아할 것 같은데? 이런 걸로 의사결정이 되게 많이 된단 말이죠. 데이터 분석을 배우니까 내가 뇌피셜로 이럴 것 같은데 라고 생각했던 것들을 데이터로 검증 할 수 있다 하는 부분에서 아 이게 내가 필요하고 부족했던 부분을 채워줄 수 있겠구나 하는 생각도 들었고 그런 부분에서 재미를 많이 느꼈던 것 같아요.  
 <span style="color:white">.</span>  
 그래서 저한테 맞다고 생각한 부분이 뇌피셜을 잘하는 거라고 생각이 들어요. 사실 데이터가 답을 준다고는 하지만 제가 아무 생각이 없고 아무 배경 지식이 없는 상태에서는 답을 얻기가 힘들잖아요. 그래서 도메인이 중요하다는 얘기를 많이 하기도 하구요. 저는 그런 가설을 세우는 과정이 되게 자연스럽게 빨리 잘 되는 편이긴 한 것 같아요. 그래서 저는 그 부분이 잘 맞는다고 생각이 듭니다.   
-![yun](img/emoji/shine.png){: width="15%"}  
+![yun](img/emoji/shine.png){: width="50%"}  
 네, 혹시 배님이나 사또님 중에서 나는 이런 측면이 데이터 분석가한테, 데이터 분석가를 하는데 잘 맞는다. 이런 게 있으신가요?
 <span style="color:white">.</span>  
-![bae](img/emoji/pear.png){: width="15%"}
+![bae](img/emoji/pear.png){: width="50%"}
 가오리님이 말씀하신 항목들 다 완전 공감하고요.  
 거기에 비슷하지만 플러스 하나로 말 해보자면, 저는 바로바로 결과가 나오는 걸 좋아해요. 그런데 이걸 가오리님 같은 경우에는 답이 나와서 좋았다고 말씀을 하셨죠.  
 <span style="color:white">.</span>  
