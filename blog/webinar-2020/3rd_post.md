@@ -286,7 +286,5 @@ order: 4
 '앞으로 우리가 나아갈 길, 2020 데이터리안 첫번째 웨비나를 마치며'에서 이어집니다.](./4th_post)
 
 <span style="color:white">.</span>  
-<span style="color:white">.</span>  
-<span style="color:white">.</span>  
 
-[➡️ 2020 현업 분석가 3인 선데이 아점 토크 _ 2화 다시 보러가기](./2nd_post)
+[⬅️ 2020 현업 분석가 3인 선데이 아점 토크 _ 2화 다시 보러가기](./2nd_post)
