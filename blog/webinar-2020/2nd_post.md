@@ -12,7 +12,7 @@ order: 3
 ---
 ✨ 코로나로 다사다난 했던 2020년, 주니어 분석가들은 어떤 일들을 하면서 한 해를 보내고 있었을까요? 각자의 공간에서 반짝반짝 빛나는 성과들을 만들어가며 커리어를 개척해 나가는 분석가들의 이야기를 들어보아요!  
 
-<span style="color:white">.</span>  
+<span style="color:white">.</span>    
 ![질문 슬라이드 2](img/ppt/2.png){: width="100%"}  
 
 ![yun](img/emoji/shine.png){: width="15%"}
@@ -284,4 +284,4 @@ order: 3
 <span style="color:white">.</span>  
 
 [➡️ 2020 현업 분석가 3인 선데이 아점 토크 _ 3화  
-'좋은 데이터 분석가란? 데이터 분석 교육에 대한 소회'에서 이어집니다.](https://datarian-kr.github.io/blog/webinar-2020-3rd)
+'좋은 데이터 분석가란? 데이터 분석 교육에 대한 소회'에서 이어집니다.](./3rd_post)

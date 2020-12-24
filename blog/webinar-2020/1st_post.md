@@ -222,4 +222,4 @@ order: 2
 <span style="color:white">.</span>  
 
 [➡️ 2020 현업 분석가 3인 선데이 아점 토크 _ 2화  
-'분석가들의 일과 삶 그리고 성취에 대하여'에서 이어집니다.](https://datarian-kr.github.io/blog/webinar-2020-2nd)
+'분석가들의 일과 삶 그리고 성취에 대하여'에서 이어집니다.](./2nd_post)
