@@ -10,6 +10,7 @@ header-img: img/about.jpg
 ---
 
 인프런에 데이터 분석 관련 교육 자료를 업로드하고 있습니다.
+<iframe src="https://anchor.fm/datarian/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 # Online
 ### 인프런
