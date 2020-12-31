@@ -7,16 +7,23 @@
         {% endif %}
         <section class="author-card-content">
             <h4 class="author-card-name">
-                <a href="{{ site.baseurl }}author/{{ page.author }}">
+                <!-- 보민이 작성한 글의 경우 보민의 포트폴리오 사이트로 이동하는 링크 연결 -->
+                {% if author.name == 'Bomin Lee' %}
+                <!-- 넣고 싶은 포폴 사이트를 a 태그 내부에 넣어주면 됩니다. -->
+                    <a href="https://lbm.oopy.io/">
+                        {{ author.name }}
+                    </a>
+                {% else %}
+                <!-- 지정된 author가 아닐 경우 이름만 노출 -->
                     {{ author.name }}
-                </a>
+                {% endif %}
             </h4>
             {% if author.bio %}
             <p>{{ author.bio }}</p>
             {% else %}
-            <p>
+            <!-- <p>
                 Read <a href="{{ site.baseurl }}member/{{ page.author }}">more posts</a> by this author.
-            </p>
+            </p> -->
             {% endif %}
         </section>
     </section>
