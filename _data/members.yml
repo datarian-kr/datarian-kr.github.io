@@ -41,9 +41,9 @@ members:
     github:
 
 
-  - role: Data Analyst, Developer
+  - role: Developer
     name: Hanseul Wang
-    bio: 데이터분석을 합니다. 개발과 디자인을 가끔 합니다.
+    bio: 웹 개발을 합니다. 개발 프로덕트 매니저로 일하고 있습니다. 디자인을 가끔 합니다.
     img: /member/img/img_hanseulwang.jpg
     skills: 
       - Data Analysis
