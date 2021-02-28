@@ -30,8 +30,8 @@ order: 0
 1. SQL이라는 언어를 아예 처음 공부하시는 왕왕초보를 위한 [[백문이불여일타] 데이터 분석을 위한 기초 SQL](https://www.inflearn.com/course/백문이불여일타-데이터-분석-기초-sql?inst=9de5abd9)
 2. SQL과 초면은 아니지만 현업에서 실제로 유의미한 데이터를 가공해서 뽑기는 조금 어려운 분들을 위한 [[백문이불여일타] 데이터 분석을 위한 중급 SQL](https://www.inflearn.com/course/데이터-분석-중급-sql?inst=2fb58a97)
 3. 이제 SQL과 낯을 가리진 않지만 좀 더 고급진 스킬을 자유자재로 사용하고 싶다고 생각하시는 분들을 위한 [[백문이불여일타] 데이터 분석을 위한 고급 SQL](https://www.inflearn.com/course/데이터-분석-고급-sql?inst=13a01dad)
-4. 중급반과 수강 후 더 많은 예제 문제들을 풀어보고 싶은 분들을 위한 [[백문이불여일타] 데이터 분석을 위한 중급 SQL 문제풀이](https://www.inflearn.com/course/sql-중급-문제풀이?inst=9927fd23)
-5. 중급반과 수강 후 더 많은 예제 문제들을 풀어보고 싶은 분들을 위한 [[백문이불여일타] 데이터 분석을 위한 고급 SQL 문제풀이](https://www.inflearn.com/course/sql-고급-문제풀이?inst=c6e400e1)
+4. 초급반과 중급반 수강 후 더 많은 예제 문제들을 풀어보고 싶은 분들을 위한 [[백문이불여일타] 데이터 분석을 위한 중급 SQL 문제풀이](https://www.inflearn.com/course/sql-중급-문제풀이?inst=9927fd23)
+5. 고급반까지 모두 수강하신 후 더 많은 예제 문제들을 풀어보고 싶은 분들을 위한 [[백문이불여일타] 데이터 분석을 위한 고급 SQL 문제풀이](https://www.inflearn.com/course/sql-고급-문제풀이?inst=c6e400e1)
 6. [위 5가지 강의를 한꺼번에 수강할 수 있는 완전판 로드맵](https://www.inflearn.com/roadmaps/334)
 7. [SQL 이론, 액기스만 공부할 수 있는 이론편 로드맵](https://www.inflearn.com/roadmaps/400)  
 
