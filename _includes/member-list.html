@@ -5,14 +5,16 @@
             <p class="catalogue-type transition">
                 {{ member.role }}
             </p>
-            <div class="catalogue-info transition">
-                <h1 class="catalogue-title">
-                    {{ member.name }}
-                </h1>
-                <p class="catalogue-sub">
-                    {{ member.bio }}
-                </p>
-            </div>
+            <a href = "{{ member.github }}">
+                <div class="catalogue-info transition">
+                    <h1 class="catalogue-title">
+                        {{ member.name }}
+                    </h1>
+                    <p class="catalogue-sub">
+                        {{ member.bio }}
+                    </p>
+                </div>
+            </a>
             <div class="member-skill">
                 <ul>
                     {% for skill in member.skills %}
