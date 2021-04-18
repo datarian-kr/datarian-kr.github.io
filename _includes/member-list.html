@@ -25,7 +25,9 @@
         </div>
         <div class="member-item">
             {% if member.img != null %}
-            <img class="member-img" src="{{member.img}}"> {% endif %}
+            <a href= "{{ member.github }}">
+                <img class="member-img" src="{{member.img}}"> 
+            </a> {% endif %}
         </div>
     </div>
 </li>
