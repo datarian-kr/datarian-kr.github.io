@@ -72,10 +72,12 @@ order: 0
 
 > **1-A. 강의 유입 경로 비중**
 
+데이터리안 강의를 수강해주신 분들은 저희 강의를 어떻게 알게 되셨을까요? <br>
+지금 이 글이 올라와 있는 데이터리안 블로그를 통해 들어오셨을 수도, 혹은 인프런 내에서 `SQL`, `데이터 분석` 등의 키워드를 검색하셨을 수도 있을 것입니다. 
+
 <br>
 
-데이터리안 강의를 수강해주신 분들은 저희 강의를 어떻게 알게 되셨을까요? <br>
-지금 이 글이 올라와 있는 데이터리안 블로그를 통해 들어오셨을 수도, 혹은 인프런 내에서 `SQL`, `데이터 분석` 등의 키워드를 검색하셨을 수도 있을 것입니다. <br>
+<p align = center>
 <img src="./img/inflearn_sql_search_result.PNG" alt="인프런 내 SQL 검색 결과" width="500"/>
 
 <br>
@@ -92,8 +94,6 @@ order: 0
 <br><br>
 
 > **1-B. 강의 구매(Acquisition) ~ 실제 수강(Activation)까지 걸리는 기간**
-
-<br>
 
 수강생분들이 강의를 구매하시고 실제로 공부를 시작하시기까지는 시간이 얼마나 걸릴까요? <br>
 공부를 하고자 하는 마음이 들었을 때 결제를 해서 바로 수강을 하시는 지, 혹은 미리 구매를 해놨다가 나중에 시간이 되실 때 수강을 시작하시는 지 궁금하네요. <br>
@@ -132,8 +132,7 @@ order: 0
 
 > **2-C. 완강률 & (완강하지 않은 채 이탈한 경우) 이탈한 지점**
 
-강의를 처음부터 끝까지 완강하신 비율은 얼마나 될까요? <br>
-만약 완강하지 않은 채 이탈하셨다면, 어느 지점에서 이탈하셨을까요? <br>
+강의를 처음부터 끝까지 완강하신 비율은 얼마나 될까요? 만약 완강하지 않은 채 이탈하셨다면, 어느 지점에서 이탈하셨을까요? <br>
 이 질문에서는 두 가지를 생각해 볼 수 있을 것입니다.<br>
 우선 '이탈'은 어떻게 정의할 수 있을까요? 
 
@@ -173,12 +172,8 @@ order: 0
 
 <p>
 
-[👉데이터리안 강의가 궁금하시다면? Click](https://www.inflearn.com/users/@datarian)
+[<span style = "color:#537ec5"> 👉데이터리안 강의가 궁금하시다면? Click </span>](https://www.inflearn.com/users/@datarian)
 
 <br>
 
-<!-- <div style = "text-align: right"> -->
 <img src="./img/datarian_p.png" align = right alt="datarian" width="20"/> 
-<!-- </div > -->
-
-<!-- <img src="./img/datarian_p.png" align = right alt="datarian" width="20"/> -->
