@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "🎁 내가 만약 카톡 선물하기의 분석가라면,,"
+title:  "내가 만약 카톡 선물하기의 분석가라면"
 subtitle: "데이터리안 프로덕트 스터디"
 type: "study"
 blog: true
 text: true
 author: Bomin Lee
 post-header: true
-header-img: img/kakaotalk-gift.png
 order: 0
 ---
 친구, 지인에게 생일 선물을 보낼 때 어떤 서비스를 이용하시나요?
