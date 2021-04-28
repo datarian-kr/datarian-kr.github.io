@@ -70,10 +70,10 @@ members:
     contact:
     github: https://github.com/kim4pb
 
-  - role: Product Manager, Data Analyst
+  - role: Data Analyst, Product Manager
     name: S
-    bio: Junior Data Analyst & Advanced SQL Product Manager
-    img:
+    bio: 주니어 데이터 분석가이자 데이터리안의 강의를 기획합니다.
+    img: /member/img/img_s.png
     skills:
       - Data Analysis
       - Project Management
