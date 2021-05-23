@@ -8,7 +8,7 @@ text: true
 author: Bomin Lee
 post-header: 
 header-img: 
-order: 0
+order: 7
 ---
 
 안녕하세요, 데이터리안입니다.

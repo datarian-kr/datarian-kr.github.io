@@ -17,7 +17,12 @@
         {% for class in proj.classes %}
         <li class="project-item transition">
             <a class="project-body" href="{{ class.link }}" target="_blank">
-            {{ class.name }}
+                {% if class.name == "데이터 분석을 위한 SQL 실전편 (무료 미니 코스)" %}
+                <!-- 새로운 강의 표시용 분기 -->
+                    {{ class.name }} <b>🤩NEW</b>
+                {% else %}
+                    {{ class.name }}
+                {% endif %}
             </a>
         </li>
         {% endfor %}

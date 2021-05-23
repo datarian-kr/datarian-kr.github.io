@@ -8,7 +8,11 @@ header-img: img/about.jpg
 ---
 
 <ul class="catalogue">
-{% assign sorted = site.pages | sort: 'order' %}
+<!-- 블로그 포스트 order 오름차순으로 정렬 -->
+<!-- {% assign sorted = site.pages | sort: 'order' %} -->
+
+<!-- 블로그 포스트 order 내림차순으로 정렬 -->
+{% assign sorted = site.pages | sort: 'order' | reverse %}
 {% for page in sorted %}
 {% if page.blog == true %}
 {% include post-list.html %}

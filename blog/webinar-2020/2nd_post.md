@@ -8,7 +8,7 @@ text: true
 author: Bomin Lee
 post-header: true
 header-img: img/ppt/header.jpg
-order: 3
+order: 4
 ---
 ✨ 코로나로 다사다난 했던 2020년, 주니어 분석가들은 어떤 일들을 하면서 한 해를 보내고 있었을까요? 각자의 공간에서 반짝반짝 빛나는 성과들을 만들어가며 커리어를 개척해 나가는 분석가들의 이야기를 들어보아요!  
 
