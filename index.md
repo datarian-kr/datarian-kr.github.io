@@ -18,7 +18,11 @@ description: Datarian, DA community
 </section>
 </div>
 <section class="explanation">
-<h3 class="intro">인프런에 데이터 분석 관련 교육 자료를 업로드하고 있습니다.</h3>
+<p class="intro">데이터로 뭉친 분석가와 개발자들의 커뮤니티.</p>
+<p class="intro">인프런에 데이터 분석 관련 교육 자료를 업로드하고 있습니다.</p>
+<br>
+<p class="intro"><b>데이터 강의 제안 및 문의</b></p>
+<p class="intro">👉 <a href='mailto:datarian2020@gmail.com'>datarian2020@gmail.com</a> </p>
 </section>
 
 {% include resume.html %}
