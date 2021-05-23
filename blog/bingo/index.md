@@ -8,7 +8,7 @@ text: true
 author: Sunmi Yoon
 post-header: 
 header-img: 
-order: 6
+order: 0
 ---
 
 빙고 유행이 하안참 지났지만 설 연휴 잉여력을 이기지 못해 만들어봤습니다 데이터 분석가 빙고!

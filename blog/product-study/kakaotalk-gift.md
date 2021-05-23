@@ -7,7 +7,7 @@ blog: true
 text: true
 author: Bomin Lee
 post-header: true
-order: 0
+order: 8
 ---
 친구, 지인에게 생일 선물을 보낼 때 어떤 서비스를 이용하시나요?
 

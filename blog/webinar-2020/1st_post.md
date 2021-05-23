@@ -8,7 +8,7 @@ text: true
 author: Bomin Lee
 post-header: true
 header-img: img/ppt/header.jpg
-order: 2
+order: 5
 ---
 ✨ 2020년 11월 29일 일요일 나른한 오후, 코로나 시대에 치열하게 살아가고 있는 각 산업군의 주니어 데이터 분석가들이 소소한 수다회를 열었습니다. 재미와 감동이 그리고 비대면의 아쉬움이 듬뿍 묻어난 웨비나에서 어떤 사람들이 도란도란 이야기를 나누었는지 한번 확인해볼까요?  
 

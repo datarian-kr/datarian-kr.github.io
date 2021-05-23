@@ -8,7 +8,7 @@ text: true
 author: Bomin Lee
 post-header: true
 header-img: img/ppt/header.jpg
-order: 4
+order: 3
 ---
 ✨ 좋은 데이터 분석가란 대체 어떤 사람 일까요? 회사들이 "돈, 장비 다 있는데 뽑을 사람이 너무 없다! 데이터 인력이 없다!"고 외치고 있는데 과연 정말로 그럴까요? 현업에 있는 분석가들은 이런 질문들에 대해 어떤 답변들을 해주었을지 궁금하다면 2부의 이야기를 함께 들어보시죠.
 
