@@ -7,7 +7,7 @@ blog: true
 text: true
 author: Minju Kim
 post-header: true
-order: 
+order: 11
 ---
 안녕하세요 데이터리안의 민주입니다.
 
