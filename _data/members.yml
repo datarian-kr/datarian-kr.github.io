@@ -63,12 +63,12 @@ members:
 
   - role: Data Analyst
     name: Minju Kim
-    bio: 데이터 분석을 합니다.
-    img:
+    bio: 20대에 창업, 합병, 퇴사 후 지금은 데이터 분석을 합니다.
+    img: /member/img/img_minjukim.jpg
     skills:
       - Data Analysis
-    contact:
-    github: https://github.com/kim4pb
+    contact: kim4pb@gmail.com
+    github: https://linktr.ee/minju.more
 
   - role: Data Analyst, Product Manager
     name: S
