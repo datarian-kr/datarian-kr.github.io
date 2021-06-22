@@ -32,13 +32,13 @@ members:
 
   - role: Product Manager, Data Analyst
     name: Jaemin
-    bio: 추천 시스템 강의를 만듭니다.
-    img:
+    bio: 콘텐츠 데이터 분석에 관심이 많습니다. 데이터리안에서 강의를 만듭니다.
+    img: /member/img/img_jaemin.jpg
     skills:
       - Data Analysis
       - Project Management
-    contact:
-    github:
+    contact: jaemin.jeon.chun@gmail.com
+    github: https://github.com/jaem1n
 
   - role: Developer
     name: Hanseul Wang
