@@ -33,7 +33,7 @@ members:
   - role: Product Manager, Data Analyst
     name: Jaemin
     bio: 콘텐츠 데이터 분석에 관심이 많습니다. 데이터리안에서 강의를 만듭니다.
-    img: /member/img/img_jaemin.jpg
+    img: /member/img/img_jaemin.jpeg
     skills:
       - Data Analysis
       - Project Management
