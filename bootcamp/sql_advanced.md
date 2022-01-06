@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "데이터 분석을 위한 온라인 부트캠프"
+title: "4주 동안 SQL 고급 문법부터 실전 데이터 분석까지"
 subtitle: "데이터리안"
 author: "Datarian"
 ---
