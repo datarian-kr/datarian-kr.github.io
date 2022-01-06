@@ -18,6 +18,14 @@ done:
 
       - name: "데이터 분석을 위한 SQL 실전편 (무료 미니 코스)"
         link: https://www.inflearn.com/course/데이터-분석-sql-실전?inst=e55bfb72
+  
+  - proj: "파이썬 시리즈"
+    classes:
+      - name: "데이터 분석을 위한 파이썬: 입문부터 꿀팁까지"
+        link: https://www.inflearn.com/course/데이터-분석-파이썬-기초?inst=e408668d
+
+      - name: "데이터 분석을 위한 판다스: 기초부터 블로그 GA 데이터 분석까지"
+        link: https://www.inflearn.com/course/판다스-공식-문서?inst=990b6e97
 
   - proj: "개념부터 실습까지"
     classes:
@@ -25,5 +33,7 @@ done:
         link: https://www.inflearn.com/course/추천-시스템-입문편?inst=55d7cd42
 
 upcoming:
+  - name: "데이터 분석을 위한 파이썬 시각화: 16가지 데이터로 하는 실습과 포트폴리오 제작까지"
+  - name: "SQL 코딩테스트: 이론과 85가지 문제풀이"
   - name: "[개념부터 실습까지] 추천 시스템 심화편"
-  - name: "[백문이불여일타] 데이터 분석가의 업무를 위한 SQL"
+  # - name: "[백문이불여일타] 데이터 분석가의 업무를 위한 SQL"
