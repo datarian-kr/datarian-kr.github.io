@@ -3,26 +3,26 @@ layout: post
 title:  "백문이불여일타 SQL 캠프 입문반"
 subtitle: "사전지식 필요없는, 입문자를 위한 4주간의 SQL 트레이닝"
 # type: "Machine Learning"
-blog: true
-text: true
+# blog: true
+# text: true
 # author: Sunmi Yoon
 # post-header: 
 # header-img: 
-# order: 1
+order: 1
 ---
-
 <!--post 베이스로 레이아웃 새로 만들기-->
-<table width=800 style="font-size:16px;">
-    <tr>
-        <td ><strong><a href="#intro" style="color:gray;">⛺ 캠프소개</a></strong></td>
-        <td><strong><a href="#teacher" style="color:gray;">🎤 강사소개</a></strong></td>
-        <td><strong><a href="#curriculum" style="color:gray;">📃 커리큘럼</a></strong></td>
-        <td><strong><a href="#review" style="color:gray;">📣 수강후기</a></strong></td>
-        <td><strong><a href="#apply" style="color:gray;">✅ 신청하기</a></strong></td>
-    </tr>
-</table>
-
+<p style="font-size:16px;">
+<strong><a href="#intro" style="color:gray;">⛺ 캠프소개</a></strong>
 <br>
+<strong><a href="#teacher" style="color:gray;">🎤 강사소개</a></strong>
+<br>
+<strong><a href="#curriculum" style="color:gray;">📃 커리큘럼</a></strong>
+<br>
+<strong><a href="#review" style="color:gray;">📣 수강후기</a></strong>
+<br>
+<strong><a href="#apply" style="color:gray;">✅ 신청하기</a></strong> 
+</p>
+
 <h2 id="intro">지금 등록하시면 </h2>
 
 ![divider](img/divider.png)
@@ -31,7 +31,7 @@ text: true
 
 <details>
     <summary style="font-size:16px">👨‍💻 <strong>라이브 세션 강의실 미리보기</strong></summary>
-    <iframe src="https://www.youtube-nocookie.com/embed/yY_VXswaMB0?controls=0" title="백문이불여일타 SQL 캠프 라이브 세션 강의실 미리보기" width="700px" height="500px"></iframe>
+    <iframe src="https://www.youtube-nocookie.com/embed/yY_VXswaMB0?controls=0" title="백문이불여일타 SQL 캠프 라이브 세션 강의실 미리보기" width="100%" height=400></iframe>
 </details>
 
 
@@ -49,7 +49,7 @@ text: true
 ## 이런 분들께 추천합니다
 
 ![divider](img/divider.png)
-<img src="img/target.png" alt="백문이 불여일타 SQL 캠프 심화반 이런 분들께 추천합니다" width="650">
+<img src="img/target.png" alt="백문이 불여일타 SQL 캠프 심화반 이런 분들께 추천합니다" width="500">
 
 
 ## 왜 백문이불여일타일까요?
@@ -102,16 +102,78 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 
 ![divider](img/divider.png)
 
-<br/>
 
 
-<table width=800 style="font-size:16px;">
+
+<!-- 
+<p style="font-size:14px;">
+<strong>1주차</strong>
+<ol style="font-size:14px;padding-left:25px;">
+    <li><strong>오리엔테이션</strong></li>
+    <li><strong>보고싶은 데이터 꺼내오기</strong>
+        <p style="color:gray;">SELECT / FROM / LIMIT</p>
+    </li>
+    <li><strong>조건에 맞는 데이터 검색하기</strong>
+        <p style="color:gray;">비교연산자와 논리연산자
+            <br>
+            LIKE, IN, BETWEEN, IS NULL
+            <br>
+            WHERE 절 요약</p>
+    </li>
+</ol></p>
+<p style="font-size:14px;">
+<strong>2주차</strong>
+<ol style="font-size:14px;padding-left:25px;">
+    <li><strong>데이터 순서 정렬하기</strong>
+        <p style="color:gray;">ORDER BY
+            <br>
+            문자열을 자르는 SUBSTR() 함수
+            <br>
+            소수점처리 ROUND() 함수</p>
+    </li>
+    <li><strong>보고싶은 데이터 요약하기</strong>
+        <p style="color:gray;">COUNT, SUM, AVG, MIN/MAX
+                <br>
+                GROUP BY & HAVING</p>
+    </li>
+</ol></p>
+<p style="font-size:14px;">
+<strong>3주차</strong>
+<ol style="font-size:14px;padding-left:25px;">
+    <li><strong>조건문</strong>
+        <p style="color:gray;">CASE
+                <br>
+                IF</p>
+    </li>
+    <li><strong>테이블 피봇</strong></li>
+</ol></p>
+<p style="font-size:14px;">
+<strong>4주차</strong>
+<ol style="font-size:14px;padding-left:25px;">
+    <li><strong>두 개 이상 테이블 결합하기</strong>
+        <p style="color:gray;">INNER JOIN
+                <br>
+                OUTER JOIN (LEFT, RIGHT)
+                <br>
+                Self JOIN 
+                <br>
+                날짜 데이터 더하고 빼기</p>
+    </li>
+    <li><strong>위 아래로 데이터 이어붙이기</strong>
+        <p style="color:gray;">UNION, UNION ALL</p>
+    </li>
+    <li><strong>마무리</strong></li>
+</ol>
+</p> -->
+
+
+<table width="100%" style="font-size:14px;">
     <tr>
         <td><strong>1주차</strong></td>
         <td><strong>2주차</strong></td>  
     </tr>
     <tr>
-        <td style="padding-left:25px">
+        <td style="padding-left:15px">
             <ol>
                 <li><strong>오리엔테이션</strong></li>
                 <li><strong>보고싶은 데이터 꺼내오기</strong>
@@ -126,7 +188,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
                 </li>
             </ol>
         </td>
-        <td style="padding-left:25px">
+        <td style="padding-left:15px">
             <ol>
                 <li><strong>데이터 순서 정렬하기</strong>
                     <p style="color:gray;">ORDER BY
@@ -149,7 +211,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
         <td><strong>4주차</strong></td>  
     </tr>
     <tr>
-        <td style="padding-left:25px">    
+        <td style="padding-left:15px">    
             <ol>
                 <li><strong>조건문</strong>
                     <p style="color:gray;">CASE
@@ -159,7 +221,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
                 <li><strong>테이블 피봇</strong></li>
             </ol>
         </td>
-        <td style="padding-left:25px">
+        <td style="padding-left:15px">
             <ol>
                 <li><strong>두 개 이상 테이블 결합하기</strong>
                     <p style="color:gray;">INNER JOIN
@@ -179,6 +241,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
     </tr>
 </table>
 
+
 <br>
 <p style="font-size:16px;">
 입문반에서 다루고 있는 내용을 충분히 숙지하고 계신 분들께는 SQL 고급 문법과 Google Analytics 데이터를 활용한 실전 프로젝트가 제공되는 <a href="/bootcamp/sql_advanced"><strong>심화반</strong></a>을 추천합니다.</p>
@@ -192,7 +255,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 
 <details>
     <summary style="font-size:16px"><strong>더 많은 후기는 여기에서 확인하세요</strong></summary>
-    <iframe src="https://www.inflearn.com/users/@datarian/reviews" title="백문이불여일타 강의 수강평" width="700px" height="600px"></iframe>
+    <iframe src="https://www.inflearn.com/users/@datarian/reviews" title="백문이불여일타 강의 수강평" width="100%"  height=500></iframe>
 </details>
 
 
@@ -200,7 +263,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 <h2 id="apply">수강료 및 캠프 일정</h2>
 
 ![divider](img/divider.png)
-### 백문이불여일타 SQL 캠프 입문반 + 심화반 패키지
+#### 백문이불여일타 SQL 캠프 입문반 + 심화반 패키지
 <p style="color:gray;font-size:16px;">
     ✅ 백문이불여일타 SQL 기초반 온라인 강의 수강권 (3개월 무제한 수강)
     <br>
@@ -220,10 +283,10 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 </p>
 #### <strong>~~398,000원 + 460,000원 = 858,000원~~  <span style="color: rgb(237, 78, 20)">→ 596,000원</span></strong> (패키지 구매시 30% 할인)
 
-#### <a href="https://forms.gle/Rd3dDs6kjn4XhgQN7" class="button" style="color:rgb(237, 78, 20)">👉 [입문반 + 심화반] 정규과정 신청하기</a>
+#### <a href="https://forms.gle/Rd3dDs6kjn4XhgQN7" class="button" style="color:rgb(237, 78, 20)">👉 [입문반 + 심화반] 패키지 신청하기</a>
 
 <br>
-### 백문이불여일타 SQL 캠프 입문반 정규과정
+#### 백문이불여일타 SQL 캠프 입문반 정규과정
 <p style="color:gray;font-size:16px;">
     ✅ 백문이불여일타 SQL 기초반 온라인 강의 수강권 (3개월 무제한 수강)
     <br>
@@ -240,7 +303,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 #### <a href="https://forms.gle/ZVtSLY4334KhiaA49" class="button" style="color:rgb(237, 78, 20)">👉 입문반 정규과정 신청하기</a>
 
 <br>
-### 백문이불여일타 SQL 캠프 입문반 1 Day 수강권
+#### 백문이불여일타 SQL 캠프 입문반 1 Day 수강권
 <p style="color:gray;font-size:16px;">
     ✅ 백문이불여일타 SQL 기초반 온라인 강의 수강권 (3개월 무제한 수강)
     <br>
@@ -256,12 +319,9 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 
 
 <br>
-### 🙋🏻‍♀️ **백문이불여일타 SQL 캠프 입문반 2기 (2월 금요일반)**
-<p>
-<strong>라이브 세션 일정</strong>
-</p>
+#### 🙋🏻‍♀️ **백문이불여일타 SQL 캠프 입문반 2기 (2월 금요일반)**
 <p style="color:gray;font-size:16px;">
-2022년 2/4, 2/11, 2/18, 2/25 (총 4회) 매주 금요일 19:30 ~ 21:30 (2시간)
+<strong>라이브 세션</strong>: 2022년 2/4, 2/11, 2/18, 2/25 (총 4회) 매주 금요일 19:30 ~ 21:30 (2시간)
 <br>
 * 선착순 30명
 <br>
@@ -272,13 +332,9 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 #### <a href="https://forms.gle/ZVtSLY4334KhiaA49" class="button" style="color:rgb(237, 78, 20)">👉 입문반 정규과정 신청하기</a>
 
 <br>
-### 🙋🏻‍♀️ **백문이불여일타 SQL 캠프 입문반 3기 (2월 토요일반)**
-
-<p>
-<strong>라이브 세션 일정</strong>
-</p>
+#### 🙋🏻‍♀️ **백문이불여일타 SQL 캠프 입문반 3기 (2월 토요일반)**
 <p style="color:gray;font-size:16px;">
-2022년 2/5, 2/12, 2/19, 2/26 (총 4회) 매주 토요일 13:30 ~ 15:30 (2시간)
+<strong>라이브 세션</strong>: 2022년 2/5, 2/12, 2/19, 2/26 (총 4회) 매주 토요일 13:30 ~ 15:30 (2시간)
 <br>
 * 선착순 30명
 <br>
