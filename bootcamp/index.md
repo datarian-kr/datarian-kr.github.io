@@ -6,10 +6,10 @@ author: "Datarian"
 ---
 <br>
 # 온라인 부트캠프
-### <a href="{{ '/bootcamp/sql_basic' | prepend: site.baseurl }}/" target="_blank">데이터 분석가가 되는 첫번째 스텝, SQL</a>
-<a href="{{ '/bootcamp/sql_basic' | prepend: site.baseurl }}/" target="_blank">[4주완성] 백문이불여일타 SQL 캠프 입문반</a>
+### <a href="{{ '/bootcamp/sql_basic' | prepend: site.baseurl }}/">데이터 분석가가 되는 첫번째 스텝, SQL</a>
+<a href="{{ '/bootcamp/sql_basic' | prepend: site.baseurl }}/">[4주완성] 백문이불여일타 SQL 캠프 입문반</a>
 <br>
-<a href="{{ '/bootcamp/sql_advanced' | prepend: site.baseurl }}/" target="_blank">[4주완성] 백문이불여일타 SQL 캠프 심화반</a>
+<a href="{{ '/bootcamp/sql_advanced' | prepend: site.baseurl }}/">[4주완성] 백문이불여일타 SQL 캠프 심화반</a>
 
 <br />
 
