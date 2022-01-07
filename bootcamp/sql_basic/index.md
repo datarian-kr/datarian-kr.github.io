@@ -285,7 +285,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 </p>
 #### <strong>~~398,000원 + 460,000원 = 858,000원~~  <span style="color: rgb(237, 78, 20)">→ 596,000원</span></strong> (패키지 구매시 30% 할인)
 
-#### <a href="https://forms.gle/Rd3dDs6kjn4XhgQN7" class="package-form-button" style="color:rgb(237, 78, 20)">👉 [입문반 + 심화반] 패키지 신청하기</a>
+#### <a href="https://forms.gle/Rd3dDs6kjn4XhgQN7" class="package-form-button" target="_blank" style="color:rgb(237, 78, 20)">👉 [입문반 + 심화반] 패키지 신청하기</a>
 
 <br>
 #### 백문이불여일타 SQL 캠프 입문반 정규과정
@@ -302,7 +302,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 </p>
 #### <strong>~~398,000원~~  <span style="color: rgb(237, 78, 20)">→ 298,000원</span></strong> (얼리버드 구매시 25% 할인)
 
-#### <a href="https://forms.gle/ZVtSLY4334KhiaA49" class="basic-form-button" style="color:rgb(237, 78, 20)">👉 입문반 정규과정 신청하기</a>
+#### <a href="https://forms.gle/ZVtSLY4334KhiaA49" class="basic-form-button" target="_blank" style="color:rgb(237, 78, 20)">👉 입문반 정규과정 신청하기</a>
 
 <br>
 #### 백문이불여일타 SQL 캠프 입문반 1 Day 수강권
@@ -317,7 +317,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 </p>
 #### <strong><span style="color: rgb(237, 78, 20)">93,500원</span></strong>
 
-#### <a href="https://forms.gle/YVSuxT9sgRNn8Z5X7" class="basic-1-day-form-button" style="color:rgb(237, 78, 20)">👉 입문반 1 Day 수강권 구매하기</a>
+#### <a href="https://forms.gle/YVSuxT9sgRNn8Z5X7" class="basic-1-day-form-button" target="_blank" style="color:rgb(237, 78, 20)">👉 입문반 1 Day 수강권 구매하기</a>
 
 
 <br>
@@ -331,7 +331,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 </p>
 <img src="img/calendar_feb_fri.png" alt="입문과정 2월 금요일반 라이브 세션 일정" width="500">
 
-#### <a href="https://forms.gle/ZVtSLY4334KhiaA49" class="basic-form-button" style="color:rgb(237, 78, 20)">👉 입문반 정규과정 신청하기</a>
+#### <a href="https://forms.gle/ZVtSLY4334KhiaA49" class="basic-form-button" target="_blank" style="color:rgb(237, 78, 20)">👉 입문반 정규과정 신청하기</a>
 
 <br>
 #### 🙋🏻‍♀️ **백문이불여일타 SQL 캠프 입문반 3기 (2월 토요일반)**
@@ -345,7 +345,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 
 <img src="img/calendar_feb_sat.png" alt="입문과정 3월 토요일반 라이브 세션 일정" width="500">
 
-#### <a href="https://forms.gle/ZVtSLY4334KhiaA49" class="basic-form-button" style="color:rgb(237, 78, 20)">👉 입문반 정규과정 신청하기</a>
+#### <a href="https://forms.gle/ZVtSLY4334KhiaA49" class="basic-form-button" target="_blank" style="color:rgb(237, 78, 20)">👉 입문반 정규과정 신청하기</a>
 
 <br>
 ## FAQ | 자주 묻는 질문

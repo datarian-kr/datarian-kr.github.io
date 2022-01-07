@@ -200,7 +200,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 </p>
 #### <strong>~~460,000원~~  <span style="color: rgb(237, 78, 20)">→ 345,000원</span></strong> (얼리버드 25% 할인가)
 
-#### <a href="https://forms.gle/4mKzdXNsTabgxUQEA" class="advanced-form-button" style="color:rgb(237, 78, 20)">👉 심화반 정규과정 신청하기</a>
+#### <a href="https://forms.gle/4mKzdXNsTabgxUQEA" class="advanced-form-button" target="_blank" style="color:rgb(237, 78, 20)">👉 심화반 정규과정 신청하기</a>
 
 <br>
 #### 🙋🏻‍♀️ **백문이불여일타 SQL 캠프 심화반 1기 (2월 월요일반)**
@@ -213,7 +213,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 </p>
 <img src="img/calendar_feb_mon.png" alt="심화과정 2월 월요일반 라이브 세션 일정" width="500">
 
-#### <a href="https://forms.gle/4mKzdXNsTabgxUQEA" class="advanced-form-button" style="color:rgb(237, 78, 20)">👉 심화반 정규과정 신청하기</a>
+#### <a href="https://forms.gle/4mKzdXNsTabgxUQEA" class="advanced-form-button" target="_blank" style="color:rgb(237, 78, 20)">👉 심화반 정규과정 신청하기</a>
 
 <br>
 #### 🙋🏻‍♀️ **백문이불여일타 SQL 캠프 심화반 2기 (3월 토요일반)**
@@ -227,7 +227,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 
 <img src="img/calendar_mar_sat.png" alt="심화과정 3월 토요일반 라이브 세션 일정" width="500">
 
-#### <a href="https://forms.gle/4mKzdXNsTabgxUQEA" class="advanced-form-button" style="color:rgb(237, 78, 20)">👉 심화반 정규과정 신청하기</a>
+#### <a href="https://forms.gle/4mKzdXNsTabgxUQEA" class="advanced-form-button" target="_blank" style="color:rgb(237, 78, 20)">👉 심화반 정규과정 신청하기</a>
 
 <br>
 ## FAQ | 자주 묻는 질문
