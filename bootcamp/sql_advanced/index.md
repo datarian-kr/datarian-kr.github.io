@@ -1,28 +1,30 @@
 ---
 layout: post
 title:  "백문이불여일타 SQL 캠프 심화반"
-subtitle: "4주 동안 SQL 고급 문법부터 실전 데이터 분석까지"
+subtitle: "4주 동안 SQL 고급 문법부터 실전 데이터 분석 프로젝트까지"
 # type: "Machine Learning"
-blog: true
-text: true
+# blog: true
+# text: true
 # author: Sunmi Yoon
 # post-header: 
 # header-img: 
-# order: 1
+order: 1
 ---
 
 <!--post 베이스로 레이아웃 새로 만들기-->
-<table width=800 style="font-size:16px;">
-    <tr>
-        <td ><strong><a href="#intro" style="color:gray;">⛺ 캠프소개</a></strong></td>
-        <td><strong><a href="#teacher" style="color:gray;">🎤 강사소개</a></strong></td>
-        <td><strong><a href="#curriculum" style="color:gray;">📃 커리큘럼</a></strong></td>
-        <td><strong><a href="#review" style="color:gray;">📣 수강후기</a></strong></td>
-        <td><strong><a href="#apply" style="color:gray;">✅ 신청하기</a></strong></td>
-    </tr>
-</table>
-
+<p style="font-size:16px;">
+<strong><a href="#intro" style="color:gray;">⛺ 캠프소개</a></strong>
 <br>
+<strong><a href="#teacher" style="color:gray;">🎤 강사소개</a></strong>
+<br>
+<strong><a href="#curriculum" style="color:gray;">📃 커리큘럼</a></strong>
+<br>
+<strong><a href="#review" style="color:gray;">📣 수강후기</a></strong>
+<br>
+<strong><a href="#apply" style="color:gray;">✅ 신청하기</a></strong> 
+</p>
+
+
 <h2 id="intro">지금 등록하시면 </h2>
 
 ![divider](img/divider.png)
@@ -31,12 +33,12 @@ text: true
 
 <details>
     <summary style="font-size:16px">👨‍💻 <strong>라이브 세션 강의실 미리보기</strong></summary>
-    <iframe src="https://www.youtube-nocookie.com/embed/yY_VXswaMB0?controls=0" title="백문이불여일타 SQL 캠프 라이브 세션 강의실 미리보기" width="700px" height="500px"></iframe>
+    <iframe src="https://www.youtube-nocookie.com/embed/yY_VXswaMB0?controls=0" title="백문이불여일타 SQL 캠프 라이브 세션 강의실 미리보기" width="100%" height="400px"></iframe>
 </details>
 
 
 <br>
-## 4주 동안 SQL 고급 문법부터 실전 데이터 분석까지
+## 4주 동안 SQL 고급 문법부터 실전 데이터 분석 프로젝트까지
 
 ![dividier](img/divider.png)
 <p style="color:gray;font-size:16px;">백문이불여일타 SQL 캠프 심화반은 누적 수강생수 7,000명 평점 4.9점의 스테디셀러 온라인 강의 백문이불여일타 SQL 과정에 라이브 세션을 더해 4주 안에 심화 과정을 수료할 수 있도록 구성한 프로그램입니다. 캠프 참가시 제공되는 온라인 강의 수강권으로 각자 강의를 듣고 일주일에 한 번 온라인 라이브 세션을 진행합니다. 라이브 세션에서는 강사와 실시간으로 소통하며 강의 내용에 대한 질의응답과 연습문제 풀이를 제공합니다.</p>
@@ -49,7 +51,7 @@ text: true
 ## 이런 분들께 추천합니다
 
 ![divider](img/divider.png)
-<img src="img/target.png" alt="백문이 불여일타 SQL 캠프 심화반 이런 분들께 추천합니다" width="650">
+<img src="img/target.png" alt="백문이 불여일타 SQL 캠프 심화반 이런 분들께 추천합니다" width="500">
 
 
 ## 왜 백문이불여일타일까요?
@@ -102,16 +104,14 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 
 ![divider](img/divider.png)
 
-<br/>
 
-
-<table width=800 style="font-size:16px;">
+<table width="100%" style="font-size:14px;">
     <tr>
         <td><strong>1주차</strong></td>
         <td><strong>2주차</strong></td>  
     </tr>
     <tr>
-        <td style="padding-left:25px">
+        <td style="padding-left:15px">
             <ol>
                 <li><strong>오리엔테이션</strong></li>
                 <li><strong>ERD, 데이터 타입</strong>
@@ -126,7 +126,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
                 </li>
             </ol>
         </td>
-        <td style="padding-left:25px">
+        <td style="padding-left:15px">
             <ol>
                 <li><strong>윈도우 함수 (Window Functions)</strong>
                     <p style="color:gray;">랭킹 계산
@@ -143,14 +143,14 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
         <td><strong>4주차</strong></td>  
     </tr>
     <tr>
-        <td style="padding-left:25px">    
+        <td style="padding-left:15px">    
             <ol>
                 <li><strong>실전 프로젝트</strong>
                     <p style="color:gray;">Google Analytics 데이터를 활용한 분석 프로젝트</p>
                 </li>
             </ol>
         </td>
-        <td style="padding-left:25px">
+        <td style="padding-left:15x">
             <ol>
                 <li><strong>정규표현식</strong>
                     <p style="color:gray;">정규표현식을 이용한 텍스트 핸들링</p>
@@ -177,8 +177,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 
 <details>
     <summary style="font-size:16px"><strong>더 많은 후기는 여기에서 확인하세요</strong></summary>
-    <iframe src="https://www.inflearn.com/users/@datarian/reviews" title="백문이불여일타 강의 수강평" width="700px" height="600px"></iframe>
-     <!-- <link rel="import" href="http://stackoverflow.com"> -->
+    <iframe src="https://www.inflearn.com/users/@datarian/reviews" title="백문이불여일타 강의 수강평" width="100%" height="500px"></iframe>
 </details>
 
 
@@ -186,7 +185,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 <h2 id="apply">수강료 및 캠프 일정</h2>
 
 ![divider](img/divider.png)
-### 백문이불여일타 SQL 캠프 심화반 정규과정
+#### 백문이불여일타 SQL 캠프 심화반 정규과정
 <p style="color:gray;font-size:16px;">
     ✅ 백문이불여일타 SQL 고급반 온라인 강의 수강권 (평생 무제한 수강)
     <br>
@@ -203,12 +202,9 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 #### <a href="https://forms.gle/4mKzdXNsTabgxUQEA" class="button" style="color:rgb(237, 78, 20)">👉 심화반 정규과정 신청하기</a>
 
 <br>
-### 🙋🏻‍♀️ **백문이불여일타 SQL 캠프 심화반 1기 (2월 월요일반)**
-<p>
-<strong>라이브 세션 일정</strong>
-</p>
+#### 🙋🏻‍♀️ **백문이불여일타 SQL 캠프 심화반 1기 (2월 월요일반)**
 <p style="color:gray;font-size:16px;">
-2022년 2/7, 2/14, 2/21, 2/28 (총 4회) 매주 월요일 19:30 ~ 21:30 (2시간)
+<strong>라이브 세션</strong>: 2022년 2/7, 2/14, 2/21, 2/28 (총 4회) 매주 월요일 19:30 ~ 21:30 (2시간)
 <br>
 * 선착순 30명
 <br>
@@ -219,13 +215,9 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 #### <a href="https://forms.gle/4mKzdXNsTabgxUQEA" class="button" style="color:rgb(237, 78, 20)">👉 심화반 정규과정 신청하기</a>
 
 <br>
-### 🙋🏻‍♀️ **백문이불여일타 SQL 캠프 심화반 2기 (3월 토요일반)**
-
-<p>
-<strong>라이브 세션 일정</strong>
-</p>
+#### 🙋🏻‍♀️ **백문이불여일타 SQL 캠프 심화반 2기 (3월 토요일반)**
 <p style="color:gray;font-size:16px;">
-2022년 3/5, 3/12, 3/19, 3/26 (총 4회) 매주 토요일 13:30 ~ 15:30 (2시간)
+<strong>라이브 세션</strong>: 2022년 3/5, 3/12, 3/19, 3/26 (총 4회) 매주 토요일 13:30 ~ 15:30 (2시간)
 <br>
 * 선착순 30명
 <br>
