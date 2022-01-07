@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "백문이불여일타 SQL 캠프 심화반"
+title: "백문이불여일타 SQL 캠프 심화반"
 subtitle: "4주 동안 SQL 고급 문법부터 실전 데이터 분석 프로젝트까지"
+main: true
+description: "4주 동안 SQL 고급 문법부터 실전 데이터 분석 프로젝트까지"
 # type: "Machine Learning"
 # blog: true
 # text: true
@@ -10,7 +12,6 @@ subtitle: "4주 동안 SQL 고급 문법부터 실전 데이터 분석 프로젝
 # header-img: 
 order: 1
 ---
-
 <!--post 베이스로 레이아웃 새로 만들기-->
 <p style="font-size:16px;">
 <strong><a href="#intro" style="color:gray;">⛺ 캠프소개</a></strong>

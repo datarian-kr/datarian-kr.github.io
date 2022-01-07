@@ -2,6 +2,8 @@
 layout: post
 title:  "백문이불여일타 SQL 캠프 입문반"
 subtitle: "사전지식 필요없는, 입문자를 위한 4주간의 SQL 트레이닝"
+main: true
+description: "사전지식 필요없는, 입문자를 위한 4주간의 SQL 트레이닝"
 # type: "Machine Learning"
 # blog: true
 # text: true
