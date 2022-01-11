@@ -48,10 +48,10 @@ project-header: true
             <div class="member-skill">
                 <ul>
                     <li class="skill_name">
-                        <a href="{{ '/bootcamp/sql_basic' | prepend: site.baseurl }}/" style="color:rgb(237, 78, 20)"><strong>🌱 [4주완성] 백문이불여일타 SQL 캠프 입문반</strong></a>
+                        <a href="{{ '/bootcamp/sql_basic' | prepend: site.baseurl }}/" style="font-size:15px;color:rgb(237, 78, 20)">🌱 [4주완성] 백문이불여일타 SQL 캠프 입문반</a>
                     </li>
                     <li class="skill_name">
-                    <a href="{{ '/bootcamp/sql_advanced' | prepend: site.baseurl }}/" style="color:rgb(237, 78, 20)"><strong>🍋 [4주완성] 백문이불여일타 SQL 캠프 심화반</strong></a>
+                    <a href="{{ '/bootcamp/sql_advanced' | prepend: site.baseurl }}/" style="font-size:15px;color:rgb(237, 78, 20)">🍋 [4주완성] 백문이불여일타 SQL 캠프 심화반</a>
                     </li>
                 </ul>
             </div>
@@ -78,10 +78,10 @@ project-header: true
             <div class="member-skill">
                 <ul>
                     <li class="skill_name">
-                        <a href="https://forms.gle/1exA21BEqXAfXtvf8" class="python-basic-noti-form-button" style="color: gray" target="_blank"><strong>🐍 [4주완성] 데이터 분석을 위한 파이썬 입문반</strong></a>
+                        <a href="https://forms.gle/1exA21BEqXAfXtvf8" class="python-basic-noti-form-button" style="font-size:15px;color: gray" target="_blank">🐍 [4주완성] 데이터 분석을 위한 파이썬 입문반</a>
                     </li>
                     <li class="skill_name">
-                    <a href="{https://forms.gle/1exA21BEqXAfXtvf8" class="python-visualization-noti-form-button" style="color: gray" target="_blank"><strong>📊 [4주완성] 데이터 분석을 위한 파이썬 시각화</strong></a>
+                    <a href="{https://forms.gle/1exA21BEqXAfXtvf8" class="python-visualization-noti-form-button" style="font-size:15px;color: gray" target="_blank">📊 [4주완성] 데이터 분석을 위한 파이썬 시각화</a>
                     </li>
                 </ul>
             </div>
