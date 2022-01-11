@@ -29,7 +29,7 @@ order: 1
 
 ![divider](img/divider.png)
 
-<img src="img/intro.png" alt="백문이불여일타 SQL 캠프 심화반 세부 구성" width="500">
+<img src="img/intro.png" alt="백문이불여일타 SQL 캠프 입문반 세부 구성" width="500">
 
 <details>
     <summary style="font-size:16px">👨‍💻 <strong>라이브 세션 강의실 미리보기</strong></summary>
@@ -51,7 +51,7 @@ order: 1
 ## 이런 분들께 추천합니다
 
 ![divider](img/divider.png)
-<img src="img/target.png" alt="백문이 불여일타 SQL 캠프 심화반 이런 분들께 추천합니다" width="500">
+<img src="img/target.png" alt="백문이 불여일타 SQL 캠프 입문반 이런 분들께 추천합니다" width="500">
 
 
 ## 왜 백문이불여일타일까요?
