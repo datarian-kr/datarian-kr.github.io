@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Datarian"
+title: "About"
 main: true
 subtitle: Datarian Tech Blog
 description: '데이터리안 : Community of data analysts'
@@ -197,7 +197,7 @@ project-header: true
             <a href = "https://forms.gle/1exA21BEqXAfXtvf8" target="_blank">
                 <div class="catalogue-info transition">
                     <h2 class="bootcamp-title">
-                        머신러닝 
+                        데이터 분석을 위한 머신러닝 
                     </h2>
                 </div>
                 <br>

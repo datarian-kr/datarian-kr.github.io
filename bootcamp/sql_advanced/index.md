@@ -13,6 +13,10 @@ description: "4주 동안 SQL 고급 문법부터 실전 데이터 분석 프로
 order: 1
 ---
 <!--post 베이스로 레이아웃 새로 만들기-->
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/l4_axJ8KKos?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="color:gray;font-size:16px;">백문이불여일타 SQL 캠프 입문반 오리엔테이션 일부를 미리 보여드립니다</p>
+<br>
+
 <p style="font-size:16px;">
 <strong><a href="#intro" style="color:gray;">⛺ 캠프소개</a></strong>
 <br>
@@ -188,24 +192,24 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 ![divider](img/divider.png)
 #### 백문이불여일타 SQL 캠프 심화반 정규과정
 <p style="color:gray;font-size:16px;">
-    ✅ 백문이불여일타 SQL 고급반 온라인 강의 수강권 (평생 무제한 수강)
+    ✅ 백문이불여일타 SQL 고급반 온라인 강의 수강권
     <br>
-    ✅ 백문이불여일타 SQL 캠프 심화반 전용 연습문제 세트 제공
+    ✅ 심화반 전용 연습문제 세트 제공
     <br>
-    ✅ 강사와 실시간 질의응답이 가능한 라이브 세션 4회 수강권
+    ✅ 라이브 세션 4회 수강권
     <br>
     ✅ Google Analytics 데이터를 활용한 실무에 가까운 실전 프로젝트 제공 (포트폴리오로 활용가능)
     <br>
     ✅ 혼자서도 복습 가능한 치트시트 제공
 </p>
-#### <strong>~~460,000원~~  <span style="color: rgb(237, 78, 20)">→ 345,000원</span></strong> (얼리버드 25% 할인가)
+#### <strong>~~460,000원~~  <span style="color: rgb(237, 78, 20)">→ 345,000원</span></strong> (얼리버드 25% 할인)
 
 #### <a href="https://forms.gle/4mKzdXNsTabgxUQEA" class="advanced-form-button" target="_blank" style="color:rgb(237, 78, 20)">👉 심화반 정규과정 신청하기</a>
 
 <br>
-#### 🙋🏻‍♀️ **백문이불여일타 SQL 캠프 심화반 1기 (2월 월요일반)**
+#### 🙋🏻‍♀️ **심화반 1기 (2월 월요일반)**
 <p style="color:gray;font-size:16px;">
-<strong>라이브 세션</strong>: 2022년 2/7, 2/14, 2/21, 2/28 (총 4회) 매주 월요일 19:30 ~ 21:30 (2시간)
+<strong>라이브 세션</strong>: 2/7, 2/14, 2/21, 2/28 (총 4회) <br><strong>매주 월요일</strong> 19:30 ~ 21:30 (2시간)
 <br>
 * 선착순 30명
 <br>
@@ -216,9 +220,9 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 #### <a href="https://forms.gle/4mKzdXNsTabgxUQEA" class="advanced-form-button" target="_blank" style="color:rgb(237, 78, 20)">👉 심화반 정규과정 신청하기</a>
 
 <br>
-#### 🙋🏻‍♀️ **백문이불여일타 SQL 캠프 심화반 2기 (3월 토요일반)**
+#### 🙋🏻‍♀️ **심화반 2기 (3월 토요일반)**
 <p style="color:gray;font-size:16px;">
-<strong>라이브 세션</strong>: 2022년 3/5, 3/12, 3/19, 3/26 (총 4회) 매주 토요일 13:30 ~ 15:30 (2시간)
+<strong>라이브 세션</strong>: 3/5, 3/12, 3/19, 3/26 (총 4회) <br><strong>매주 토요일</strong> 13:30 ~ 15:30 (2시간)
 <br>
 * 선착순 30명
 <br>
@@ -259,10 +263,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
     
 <details>
     <summary style="font-size:17px"><strong>현재 오픈 예정인 캠프 이외의 캠프도 오픈되나요?</strong></summary>
-    <p style="color:gray;font-size:16px">심화반은 현재 2월 월요일 반과 3월 토요일반만 개설이 예정되어 있습니다. 
-    <br>
-    <br>
-    현재 예정이 없는 요일이더라도 오픈 요청이 10건 이상이 되는 경우에는 오픈될 수 있습니다. 원하시는 요일과 성함을 <a href = "mailto: datarian2020@gmail.com" style="color:gray">datarian2020@gmail.com</a> 으로 남겨주시면 해당 강의 오픈시 별도로 안내 메일을 보내드립니다.</p>
+    <p style="color:gray;font-size:16px">현재 예정이 없는 요일이더라도 오픈 요청이 10건 이상이 되는 경우에는 오픈될 수 있습니다. 원하시는 요일과 성함을 <a href = "mailto: datarian2020@gmail.com" style="color:gray">datarian2020@gmail.com</a> 으로 남겨주시면 해당 강의 오픈시 별도로 안내 메일을 보내드립니다.</p>
     <br>
 </details>
 

@@ -55,6 +55,7 @@
     }
 }
 
+
 //post 영역
 .post {
     position: relative;
@@ -174,12 +175,14 @@
         }
     }
     ul {
+        list-style:none;
         li {
             list-style: none;
             padding: 6px 0;
             margin-left: 20px;
             line-height: 1.65;
             position: relative;
+            
         }
         li:before {
             content: "";
@@ -276,6 +279,9 @@ sup {
     }
 }
 
+ul {
+    list-style:none;
+}
 
 /* Post Footer
 /* ---------------------------------------------------------- */

@@ -23,6 +23,9 @@ div.member-skill {
         fill: $orange;
         position: absolute;
     }
+    ul {
+        list-style:none;
+    }
     li.skill_name {
         display: inline-block;
         font-family: $source;
