@@ -36,11 +36,6 @@ order: 1
 
 <img src="img/intro.png" alt="백문이불여일타 SQL 캠프 심화반 세부 구성" width="500">
 
-<details>
-    <summary style="font-size:16px">👨‍💻 <strong>라이브 세션 강의실 미리보기</strong></summary>
-    <iframe src="https://www.youtube-nocookie.com/embed/yY_VXswaMB0?controls=0" title="백문이불여일타 SQL 캠프 라이브 세션 강의실 미리보기" width="100%" height="400px"></iframe>
-</details>
-
 
 <br>
 ## 4주 동안 SQL 고급 문법부터 실전 데이터 분석 프로젝트까지
