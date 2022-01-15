@@ -57,14 +57,8 @@ order: 1
 
 ![divider](img/divider.png)
 
-<img src="img/intro.PNG" alt="백문이불여일타 SQL 캠프 입문반 세부 구성" width="500">
+<img src="img/intro.png" alt="백문이불여일타 SQL 캠프 입문반 세부 구성" width="500">
 
-<details>
-    <summary style="font-size:16px">👨‍💻 <strong>라이브 세션 강의실 미리보기</strong></summary>
-    <iframe src="https://www.youtube-nocookie.com/embed/yY_VXswaMB0?controls=0" title="백문이불여일타 SQL 캠프 라이브 세션 강의실 미리보기" width="100%" height=400></iframe>
-</details>
-
-<br>
 <br>
 ## 이번 달에 시작하면 4주 뒤엔 아래 질문에 답할 수 있어요
 
@@ -97,7 +91,7 @@ order: 1
 ![divider](img/divider.png)
 <img src="img/target.png" alt="백문이 불여일타 SQL 캠프 입문반 이런 분들이 듣고 있어요" width="600">
 
-
+<br>
 ## 4주동안 뭐하는지 자세하게 알려드릴게요✨
 
 ![divider](img/divider.png)
