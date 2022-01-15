@@ -89,6 +89,7 @@ order: 1
 ## 이런 분들이 지금 SQL 캠프를 듣고 있어요
 
 ![divider](img/divider.png)
+<br>
 <img src="img/target.png" alt="백문이 불여일타 SQL 캠프 입문반 이런 분들이 듣고 있어요" width="600">
 
 <br>
@@ -291,6 +292,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 <h2 id="review">수강생 후기</h2>
 
 ![divider](img/divider.png)
+<br>
 <img src="img/review.png" alt="백문이불여일타 수강생 후기" width="600">
 
 <details>
