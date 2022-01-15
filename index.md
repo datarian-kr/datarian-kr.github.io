@@ -142,28 +142,28 @@ project-header: true
             <div class="member-skill">
                 <ul>
                     <li class="skill_name">
-                        <a href="https://www.inflearn.com/course/백문이불여일타-데이터-분석-기초-sql?inst=9de5abd9" class="python-visualization-noti-form-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">[백문이불여일타] 데이터 분석을 위한 기초 SQL</a>
+                        <a href="https://www.inflearn.com/course/백문이불여일타-데이터-분석-기초-sql?inst=9de5abd9" class="sql-basic-inflearn-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">[백문이불여일타] 데이터 분석을 위한 기초 SQL</a>
                     </li>
                     <br>
                     <li class="skill_name">
-                        <a href="https://www.inflearn.com/course/데이터-분석-중급-sql?inst=2fb58a97" class="python-visualization-noti-form-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">[백문이불여일타] 데이터 분석을 위한 중급 SQL</a>
+                        <a href="https://www.inflearn.com/course/데이터-분석-중급-sql?inst=2fb58a97" class="sql-inter-inflearn-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">[백문이불여일타] 데이터 분석을 위한 중급 SQL</a>
                     </li>
                     <br>
                     <li class="skill_name">
-                        <a href="https://www.inflearn.com/course/sql-중급-문제풀이?inst=9927fd23" class="python-visualization-noti-form-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">[백문이불여일타] 데이터 분석을 위한 중급 SQL 문제풀이</a>
+                        <a href="https://www.inflearn.com/course/sql-중급-문제풀이?inst=9927fd23" class="sql-inter-exercise-inflearn-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">[백문이불여일타] 데이터 분석을 위한 중급 SQL 문제풀이</a>
                     </li>
                     <br>
                     <li class="skill_name">
-                        <a href="https://www.inflearn.com/course/데이터-분석-고급-sql?inst=13a01dad" class="python-visualization-noti-form-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">[백문이불여일타] 데이터 분석을 위한 고급 SQL</a>
+                        <a href="https://www.inflearn.com/course/데이터-분석-고급-sql?inst=13a01dad" class="sql-advanced-inflearn-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">[백문이불여일타] 데이터 분석을 위한 고급 SQL</a>
                     </li>
                     <br>
                     <li class="skill_name">
-                        <a href="https://www.inflearn.com/course/sql-고급-문제풀이?inst=c6e400e1" class="python-visualization-noti-form-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">[백문이불여일타] 데이터 분석을 위한 고급 SQL 문제풀이</a>
+                        <a href="https://www.inflearn.com/course/sql-고급-문제풀이?inst=c6e400e1" class="sql-advanced-exercise-inflearn-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">[백문이불여일타] 데이터 분석을 위한 고급 SQL 문제풀이</a>
                     </li>
                     <br>
                     <li class="skill_name">
-                        <!-- <a href="https://www.inflearn.com/course/데이터-분석-중급-sql?inst=2fb58a97" class="python-visualization-noti-form-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">[백문이불여일타] SQL 코딩테스트</a> -->
-                        <p class="python-visualization-noti-form-button" style="font-size:15px;color: gray">[백문이불여일타] SQL 코딩테스트 <strong>⚡️Upcoming</strong></p>
+                        <!-- <a href="https://www.inflearn.com/course/데이터-분석-중급-sql?inst=2fb58a97" class="sql-test-inflearn-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">[백문이불여일타] SQL 코딩테스트</a> -->
+                        <p style="font-size:15px;color: gray">[백문이불여일타] SQL 코딩테스트 <strong>⚡️Upcoming</strong></p>
                     </li>
                 </ul>
             </div>
@@ -180,21 +180,21 @@ project-header: true
             <div class="member-skill">
                 <ul>
                     <li class="skill_name">
-                        <a href="https://www.inflearn.com/course/데이터-분석-파이썬-기초?inst=e408668d" class="python-visualization-noti-form-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">데이터 분석을 위한 파이썬: 입문부터 꿀팁까지</a>
+                        <a href="https://www.inflearn.com/course/데이터-분석-파이썬-기초?inst=e408668d" class="python-inflearn-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">데이터 분석을 위한 파이썬: 입문부터 꿀팁까지</a>
                     </li>
                     <br>
                     <li class="skill_name">
-                        <a href="https://www.inflearn.com/course/판다스-공식-문서?inst=990b6e97" class="python-visualization-noti-form-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">데이터 분석을 위한 판다스: 기초부터 블로그 GA 데이터 분석까지</a>
+                        <a href="https://www.inflearn.com/course/판다스-공식-문서?inst=990b6e97" class="pandas-inflearn-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">데이터 분석을 위한 판다스: 기초부터 블로그 GA 데이터 분석까지</a>
                     </li>
                     <br>
                     <li class="skill_name">
-                        <!-- <a href="https://www.inflearn.com/course/데이터-분석-중급-sql?inst=2fb58a97" class="python-visualization-noti-form-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">데이터 분석을 위한 파이썬 시각화 </a> -->
-                        <p class="python-visualization-noti-form-button" style="font-size:15px;color: gray">데이터 분석을 위한 파이썬 시각화 <strong>⚡️Upcoming</strong></p>
+                        <!-- <a href="https://www.inflearn.com/course/데이터-분석-중급-sql?inst=2fb58a97" class="python-visualization-inflearn-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">데이터 분석을 위한 파이썬 시각화 </a> -->
+                        <p style="font-size:15px;color: gray">데이터 분석을 위한 파이썬 시각화 <strong>⚡️Upcoming</strong></p>
                     </li>
                 </ul>
             </div>
             <br>
-            <a href = "https://forms.gle/1exA21BEqXAfXtvf8" target="_blank">
+            <a href = "https://www.inflearn.com/course/추천-시스템-입문편?inst=55d7cd42" target="_blank">
                 <div class="catalogue-info transition">
                     <h2 class="bootcamp-title">
                         머신러닝 
@@ -206,12 +206,12 @@ project-header: true
             <div class="member-skill">
                 <ul>
                     <li class="skill_name">
-                        <a href="https://www.inflearn.com/course/데이터-분석-파이썬-기초?inst=e408668d" class="python-visualization-noti-form-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">[개념부터실습까지] 추천 시스템 입문편</a>
+                        <a href="https://www.inflearn.com/course/추천-시스템-입문편?inst=55d7cd42" class="recommendation-basic-inflearn-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">[개념부터실습까지] 추천 시스템 입문편</a>
                     </li>
                     <br>
                     <li class="skill_name">
-                        <!-- <a href="https://www.inflearn.com/course/추천-시스템-입문편?inst=55d7cd42" class="python-visualization-noti-form-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">[개념부터실습까지] 추천 시스템 심화편 (준비중)</a> -->
-                        <p class="python-visualization-noti-form-button" style="font-size:15px;color: gray">[개념부터실습까지] 추천 시스템 심화편 <strong>⚡️Upcoming</strong></p>
+                        <!-- <a href="https://www.inflearn.com/course/추천-시스템-입문편?inst=55d7cd42" class="recommendation-advanced-inflearn-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">[개념부터실습까지] 추천 시스템 심화편 (준비중)</a> -->
+                        <p style="font-size:15px;color: gray">[개념부터실습까지] 추천 시스템 심화편 <strong>⚡️Upcoming</strong></p>
                     </li>
                 </ul>
             </div>
