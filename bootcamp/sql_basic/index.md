@@ -15,6 +15,7 @@ order: 1
 <!--post 베이스로 레이아웃 새로 만들기-->
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/l4_axJ8KKos?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<p style="color:gray;font-size:16px;">백문이불여일타 SQL 캠프 입문반 오리엔테이션 일부를 미리 보여드립니다</p>
 <br>
 
 <p style="font-size:16px;">
@@ -74,7 +75,7 @@ order: 1
 ## 사전지식 필요없는, 입문자를 위한 4주간의 SQL 트레이닝
 
 ![dividier](img/divider.png)
-<img src="img/basic-goal.jpeg" alt="백문이불여일타 SQL 캠프 입문반 목표" width="700">
+<img src="img/goal.jpeg" alt="백문이불여일타 SQL 캠프 입문반 목표" width="700">
 <h4>입문반 강의 목표: SQL Lv.0 에서 Lv.2 로 성장하기</h4>
 <ol style="color:gray;font-size:16px;padding-left:25px">
 <li>SQL을 이용해 간단한 데이터를 추출하고 분석할 수 있음</li>

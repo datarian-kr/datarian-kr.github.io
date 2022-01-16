@@ -36,36 +36,52 @@ order: 1
 
 <img src="img/intro.png" alt="백문이불여일타 SQL 캠프 심화반 세부 구성" width="500">
 
+<br>
+## 이번 달에 시작하면 4주 뒤엔 아래 질문에 답할 수 있어요
+
+![dividier](img/divider.png)
+<ol style="color:gray;font-size:16px;padding-left:25px">
+<li>"어떤 시기에 가입한 유저들이 잔존율이 높은가요? 리텐션 차트 뽑아서 보여주세요" 
+<br><blockquote>리텐션 차트를 SQL로 추출하고 해석하는 과제 진행</blockquote></li>
+<li>"우리 서비스에서 가장 인기 있는 컨텐츠는 뭔가요? 사용자들한테 푸시를 보내려고 하는데 어떤 컨텐츠를 보내야 사용자들이 만족할까요?" 
+<br><blockquote>블로그 Google Analytics(GA) 데이터를 SQL로 분석하는 과제 진행</blockquote></li>
+<li>"성연령별 차트를 만들려고 하는데, 그룹별로 제일 인기있는 프로그램 열 개씩만 추출해주세요."</li>
+</ol>
 
 <br>
 ## 4주 동안 SQL 고급 문법부터 실전 데이터 분석 프로젝트까지
 
 ![dividier](img/divider.png)
-<p style="color:gray;font-size:16px;">백문이불여일타 SQL 캠프 심화반은 누적 수강생수 7,000명 평점 4.9점의 스테디셀러 온라인 강의 백문이불여일타 SQL 과정에 라이브 세션을 더해 4주 안에 심화 과정을 수료할 수 있도록 구성한 프로그램입니다. 캠프 참가시 제공되는 온라인 강의 수강권으로 각자 강의를 듣고 일주일에 한 번 온라인 라이브 세션을 진행합니다. 라이브 세션에서는 강사와 실시간으로 소통하며 강의 내용에 대한 질의응답과 연습문제 풀이를 제공합니다.</p>
-
-<p style="color:gray;font-size:16px;"><strong>SQL 기초를 배우신 분들을 대상으로 하는 강의</strong>이며, 현업에서 복합적인 쿼리를 작성해 데이터를 추출하고 분석해볼 수 있는 수준인 SQL 고급 과정을 다룹니다. 온라인 강의와 라이브 세션으로 구성되어 현업, 학업과 병행이 가능합니다. <strong>고급 SQL 쿼리 작성방법을 배우고 문제풀이를 통해 고급 SQL 문법에 익숙해질 수 있습니다.</strong> 또한 실무에서 SQL 고급 스킬들이 어떻게 사용되는지 빠르게 이해하실 수 있도록 <strong>실전 데이터(데이터리안 블로그의 Google Analytics 데이터) 프로젝트</strong>를 포함한 커리큘럼으로 구성하였습니다.
-</p>
+<img src="img/goal.jpeg" alt="백문이불여일타 SQL 캠프 심화반 목표" width="700">
+<h4>심화반 강의 목표: SQL Lv.2 에서 Lv.5 로 성장하기</h4>
+<ol style="color:gray;font-size:16px;padding-left:25px">
+<li>데이터 분석가 채용에서 요구하는 SQL 코딩테스트에서 만점받을 수 있음</li>
+<li>길고 복잡한 SQL 쿼리문을 뜯어보고 이해하며 수정할 수 있음</li>
+<li>입문반보다 좀 더 다양한 함수를 배우고 익숙하게 사용할 수 있음</li>
+<li>“어떤 시기에 가입한 유저들이 잔존율이 높은가요?”와 같은 비즈니스 질문에 데이터를 추출, 분석하여 답할 수 있음</li>
+</ol>
 
 
 <br/>
 ## 이런 분들께 추천합니다
-
+<!-- ## 이런 분들이 지금 SQL 캠프를 듣고 있어요 -->
+<!-- 이미지 수정 필요 -->
 ![divider](img/divider.png)
 <img src="img/target.png" alt="백문이 불여일타 SQL 캠프 심화반 이런 분들께 추천합니다" width="500">
 
-
-## 왜 백문이불여일타일까요?
+<br>
+## 4주동안 뭐하는지 자세하게 알려드릴게요✨
 
 ![divider](img/divider.png)
 
 <ol style="color:gray;font-size:16px;padding-left:25px">
-    <li>인프런 <strong>평점 4.9점</strong>의 스테디셀러 강의 [백문이불여일타] 시리즈 강사가 직접 기초부터 차근차근 가르쳐드립니다.</li>
-    <li><strong>연습문제를 함께 풀어보고 실전에 가까운 데이터를 이용해 실습 프로젝트를 진행</strong>합니다. 이론만 배우고 끝나는게 아니라 <strong>실무에서 SQL을 바로 활용할 수 있는 수준</strong>으로 배울 수 있습니다.</li>
-    <li>혼자 들으면 흐지부지되기 쉬운 온라인 강의, 강사가 진도체크를 해주며 끝까지 완주할 수 있게 도와드립니다.</li>
-    <li>온라인 강의를 통한 자율학습 + 주 1회 2시간 라이브 세션으로 <strong>따로 또 함께</strong> 진도를 나가며 효과적으로 학습합니다. 일주일에 5시간 정도만 투자하시면 충분히 따라올 수 있는 과정이기 때문에 <strong>현업/학업과 병행</strong>할 수 있습니다.</li>
-    <li>캠프 전과정 수료시 실무에서 옆에 두고 사용할 수 있는 <strong>치트시트</strong>와 학습 내용을 증명할 수 있는 <strong>수료증</strong>을 발급해드립니다.</li>
+    <li>주 1회 2시간, 4번의 라이브 세션에서 SQL 이론과 문제풀이 그리고 SQL을 활용한 데이터 분석을 배웁니다.</li>
+    <li>4회의 라이브 세션마다 <a href="https://solvesql.com" target="_blank" style="color:gray;">solvesql.com</a> 💎 문제 쿠폰 💎 을 드립니다.</li>
+    <li>블로그 데이터 분석, 리텐션 분석 실습으로 실제로 SQL을 활용해 분석이 어떻게 진행되는지 알 수 있고, 포트폴리오로도 활용할 수 있습니다.</li>
+    <li>인프런 <a href="https://www.inflearn.com/course/데이터-분석-고급-sql?inst=13a01dad" target="_blank" style="color:gray;">[백문이불여일타] 데이터 분석을 위한 고급 SQL</a> 온라인 강의 수강권(평생 무제한 수강)을 드리고, 반드시 완강하실 수 있도록 진도 관리를 해드립니다.</li>
+    <li>캠프 신청자만 들어올 수 있는 비공개 슬랙 채널 #심화반-질문답변 에서 강사와 조교가 빠르게 답변을 드립니다.</li>
+    <li>학습 내용을 증명할 수 있는 수료증을 발급해드립니다.</li>    
 </ol>
-
 
 <br/>
 <h2 id="teacher">강사 소개</h2>
@@ -145,8 +161,11 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
     <tr>
         <td style="padding-left:15px">    
             <ol>
-                <li><strong>실전 프로젝트</strong>
-                    <p style="color:gray;">Google Analytics 데이터를 활용한 분석 프로젝트</p>
+                <li><strong>실전 프로젝트 A</strong>
+                    <p style="color:gray;">블로그 Google Analytics 데이터 분석</p>
+                </li>
+                <li><strong>실전 프로젝트 B</strong>
+                    <p style="color:gray;">리텐션 분석</p>
                 </li>
             </ol>
         </td>
@@ -156,7 +175,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
                     <p style="color:gray;">정규표현식을 이용한 텍스트 핸들링</p>
                 </li>
                 <li><strong>DML</strong>
-                    <p style="color:gray;">INSERT, UPDATE, DELETE</p>
+                    <p style="color:gray;">INSERT<br>UPDATE<br>DELETE</p>
                 </li>
                 <li><strong>마무리</strong></li>
             </ol>
