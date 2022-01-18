@@ -122,24 +122,47 @@ project-header: true
     <div class="bootcamp-box">
         <div class="bootcamp-item">
             <p class="catalogue-type transition">
-                📚 온라인 강의
+                📚 Education
             </p>
-            <p class="catalogue-sub" style="color:gray;font-size:16px;">2022.01 기준 인프런 누적 수강생 7,000 명 평균 평점 4.9 / 5</p>     
-                    <details>
+            <h2>1. 온라인 부트캠프</h2>
+            <br>
+            <p class="catalogue-sub" style="color:gray;font-size:16px;margin-left:16px">2022.01 기준 수강생 만족도 4.7 / 5</p>
+            <!-- <br>
+            <h4>데이터 분석가가 되는 첫번째 스텝, SQL</h4> -->
+            <br>
+            <div class="member-skill" style="margin-left:16px">
+                <ul>
+                    <li class="skill_name">
+                        <a href="{{ '/bootcamp/sql_basic' | prepend: site.baseurl }}/" style="font-size:15px;color:rgb(237, 78, 20)">[4주완성] 백문이불여일타 SQL 캠프 입문반</a>
+                    </li>
+                    <br>
+                    <li class="skill_name">
+                    <a href="{{ '/bootcamp/sql_advanced' | prepend: site.baseurl }}/" style="font-size:15px;color:rgb(237, 78, 20)">[4주완성] 백문이불여일타 SQL 캠프 심화반</a>
+                    </li>
+                    <br>
+                    <li class="skill_name">
+                        <a href="https://forms.gle/1exA21BEqXAfXtvf8" class="python-basic-noti-form-button" style="font-size:15px;color: gray" target="_blank">[4주완성] 데이터 분석을 위한 파이썬 입문반 <strong>⚡️Upcoming</strong></a>
+                    </li>
+                    <br>
+                    <li class="skill_name">
+                    <a href="{https://forms.gle/1exA21BEqXAfXtvf8" class="python-visualization-noti-form-button" style="font-size:15px;color: gray" target="_blank">[4주완성] 데이터 분석을 위한 파이썬 시각화 <strong>⚡️Upcoming</strong></a>
+                    </li>
+                </ul>
+            </div>
+            <br>
+            <h2>2. 온라인 강의</h2>
+            <br>
+            <p class="catalogue-sub" style="color:gray;font-size:16px;margin-left:16px">2022.01 기준 인프런 누적 수강생 7,000 명 평균 평점 4.9 / 5</p>     
+                    <details style="margin-left:16px">
                         <summary style="color:gray;font-size:16px"><strong>👈 누적 수강평 보러가기</strong></summary>
                         <iframe src="https://www.inflearn.com/users/@datarian/reviews" title="백문이불여일타 강의 수강평" width="100%" height=500></iframe>    
                     </details>
-            <a href = "https://forms.gle/1exA21BEqXAfXtvf8" target="_blank">
-                <br>
-                <div class="catalogue-info transition">
-                    <h2 class="bootcamp-title">
-                        데이터 분석을 위한 SQL 
-                    </h2>
-                </div>
-                <br>
-            </a>
+            <br>
+            <h4 style="margin-left:16px">
+                데이터 분석을 위한 SQL 
+            </h4>
             <br/>
-            <div class="member-skill">
+            <div class="member-skill" style="margin-left:16px">
                 <ul>
                     <li class="skill_name">
                         <a href="https://www.inflearn.com/course/백문이불여일타-데이터-분석-기초-sql?inst=9de5abd9" class="sql-basic-inflearn-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">[백문이불여일타] 데이터 분석을 위한 기초 SQL</a>
@@ -168,16 +191,11 @@ project-header: true
                 </ul>
             </div>
             <br>
-            <a href = "https://forms.gle/1exA21BEqXAfXtvf8" target="_blank">
-                <div class="catalogue-info transition">
-                    <h2 class="bootcamp-title">
-                        데이터 분석을 위한 파이썬 
-                    </h2>
-                </div>
-                <br>
-            </a>
+            <h4 style="margin-left:16px">
+                데이터 분석을 위한 파이썬
+            </h4>
             <br/>
-            <div class="member-skill">
+            <div class="member-skill" style="margin-left:16px">
                 <ul>
                     <li class="skill_name">
                         <a href="https://www.inflearn.com/course/데이터-분석-파이썬-기초?inst=e408668d" class="python-inflearn-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">데이터 분석을 위한 파이썬: 입문부터 꿀팁까지</a>
@@ -194,16 +212,11 @@ project-header: true
                 </ul>
             </div>
             <br>
-            <a href = "https://www.inflearn.com/course/추천-시스템-입문편?inst=55d7cd42" target="_blank">
-                <div class="catalogue-info transition">
-                    <h2 class="bootcamp-title">
-                        머신러닝 
-                    </h2>
-                </div>
-                <br>
-            </a>
+            <h4 style="margin-left:16px">
+                머신러닝 
+            </h4>
             <br/>
-            <div class="member-skill">
+            <div class="member-skill" style="margin-left:16px">
                 <ul>
                     <li class="skill_name">
                         <a href="https://www.inflearn.com/course/추천-시스템-입문편?inst=55d7cd42" class="recommendation-basic-inflearn-button" style="font-size:15px;color:rgb(237, 78, 20)" target="_blank">[개념부터실습까지] 추천 시스템 입문편</a>
@@ -215,6 +228,14 @@ project-header: true
                     </li>
                 </ul>
             </div>
+            <!-- <br> -->
+            <!-- <h2>3. 온라인 세미나</h2> -->
+            <!-- <br> -->
+            <!-- <p class="catalogue-sub" style="color:gray;font-size:16px;margin-left:16px">2022.01 기준 인프런 누적 수강생 7,000 명 평균 평점 4.9 / 5</p>      -->
+            <!-- <br> -->
+            <!-- <h4 style="margin-left:16px"> -->
+                <!-- 비전공자 4명, 어떻게 데이터 분석가 됐을까? -->
+            <!-- </h4> -->
         </div>
     </div>
 </li>
