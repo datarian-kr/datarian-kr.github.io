@@ -10,6 +10,7 @@
     <!-- End Google Tag Manager (noscript) -->
 
     {% assign current = page.url | downcase | split: '/' %}
+    
     <nav class="nav">
         <div class="nav-container">
             <ul>
@@ -32,6 +33,17 @@
         </div>
     </nav>
 
+    <br>
+    <main>
+    <div style="text-align:center">
+        <!-- <a href="https://forms.gle/7fUbLoHv4ijKuowc6" target="_blank" class="webinar_banner_click">
+            <img src="img/webinar_2022_jan.jpeg" alt="비전공자 4명, 어떻게 데이터 분석가 됐을까? 웨비나" width="800">
+        </a> -->
+        <a href="https://forms.gle/7fUbLoHv4ijKuowc6" target="_blank" class="webinar_banner_click">
+            <img src="https://datarian-kr.github.io/img/webinar_2022_jan.jpeg" alt="비전공자 4명, 어떻게 데이터 분석가 됐을까? 웨비나" width="800">
+        </a>
+    </div>
+    </main>
     {% if page.post-header == true %} {% include post-header.html %} {% endif %} {% if page.project-header == true %} {% include project-header.html %} {% endif %}
 
     <main>
