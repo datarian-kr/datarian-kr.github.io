@@ -227,7 +227,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
     <br>
     ✅ 혼자서도 복습 가능한 치트시트 제공
 </p>
-#### <strong>~~460,000원~~  <span style="color: rgb(237, 78, 20)">→ 345,000원</span></strong> (얼리버드 25% 할인)
+#### <strong>~~460,000원~~  <span style="color: rgb(237, 78, 20)">→ 345,000원</span></strong> (얼리버드 할인 ~1/28)
 
 #### <a href="https://forms.gle/4mKzdXNsTabgxUQEA" class="advanced-form-button" target="_blank" style="color:rgb(237, 78, 20)">👉 심화반 정규과정 신청하기</a>
 
