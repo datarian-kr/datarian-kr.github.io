@@ -245,16 +245,16 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 #### <a href="https://forms.gle/4mKzdXNsTabgxUQEA" class="advanced-form-button" target="_blank" style="color:rgb(237, 78, 20)">👉 심화반 정규과정 신청하기</a>
 
 <br>
-#### 🙋🏻‍♀️ **심화반 2기 (3월 토요일반)**
+#### 🙋🏻‍♀️ **심화반 2기 (3월 금요일반)**
 <p style="color:gray;font-size:16px;">
-<strong>라이브 세션</strong>: 3/5, 3/12, 3/19, 3/26 (총 4회) <br><strong>매주 토요일</strong> 13:30 ~ 15:30 (2시간)
+<strong>라이브 세션</strong>: 3/4, 3/11, 3/18, 3/25 (총 4회) <br><strong>매주 금요일</strong> 19:30 ~ 21:30 (2시간)
 <br>
 * 선착순 30명
 <br>
 * 기수별 최소인원(10명)이 충족되지 않을 경우 오픈이 취소될 수 있습니다.
 </p>
 
-<img src="img/calendar_mar_sat.png" alt="심화과정 3월 토요일반 라이브 세션 일정" width="500">
+<img src="img/calendar_mar_fri.png" alt="심화과정 3월 금요일반 라이브 세션 일정" width="500">
 
 #### <a href="https://forms.gle/4mKzdXNsTabgxUQEA" class="advanced-form-button" target="_blank" style="color:rgb(237, 78, 20)">👉 심화반 정규과정 신청하기</a>
 
