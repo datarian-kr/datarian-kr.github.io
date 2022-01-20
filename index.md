@@ -107,7 +107,7 @@ project-header: true
                         <a href="{{ '/bootcamp/sql_basic' | prepend: site.baseurl }}/" style="font-size:15px;color:rgb(237, 78, 20)">🌱 [4주완성] 백문이불여일타 SQL 캠프 입문반</a>
                     </li>
                     <li class="skill_name">
-                    <a href="{{ '/bootcamp/sql_advanced' | prepend: site.baseurl }}/" style="font-size:15px;color:rgb(237, 78, 20)">🍋 [4주완성] 백문이불여일타 SQL 캠프 심화반</a>
+                    <a href="{{ '/bootcamp/sql_advanced' | prepend: site.baseurl }}/" style="font-size:15px;color:rgb(237, 78, 20)">🍋 [4주완성] 백문이불여일타 SQL 캠프 실전반</a>
                     </li>
                 </ul>
             </div> -->
@@ -137,7 +137,7 @@ project-header: true
                     </li>
                     <br>
                     <li class="skill_name">
-                    <a href="{{ '/bootcamp/sql_advanced' | prepend: site.baseurl }}/" style="font-size:15px;color:rgb(237, 78, 20)">[4주완성] 백문이불여일타 SQL 캠프 심화반</a>
+                    <a href="{{ '/bootcamp/sql_advanced' | prepend: site.baseurl }}/" style="font-size:15px;color:rgb(237, 78, 20)">[4주완성] 백문이불여일타 SQL 캠프 실전반</a>
                     </li>
                     <br>
                     <li class="skill_name">
