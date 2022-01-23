@@ -2,7 +2,7 @@
 layout: post
 title:  "2020 현업 분석가 3인 선데이 아점 토크 _ 2화"
 subtitle: "분석가들의 일과 삶 그리고 성취에 대하여"
-type: "webinar"
+type: "🤸‍♀️ 데이터리안 일상"
 blog: true
 text: true
 author: Bomin Lee

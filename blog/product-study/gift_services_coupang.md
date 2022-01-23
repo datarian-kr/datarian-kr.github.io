@@ -2,7 +2,7 @@
 layout: post
 title:  "우리도 선물하기 서비스 할래요! _ 쿠팡"
 subtitle: "데이터리안 프로덕트 스터디"
-type: "study"
+type: "🧪 데이터 분석가들의 프로덕트 스터디"
 blog: true
 text: true
 author: Bomin Lee

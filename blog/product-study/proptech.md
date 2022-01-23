@@ -2,7 +2,7 @@
 layout: post
 title:  "직방, 다방, 네이버 부동산, 집토스 뭐가 다를까? (부제: 프롭테크 산업이란?)"
 subtitle: "데이터리안 프로덕트 스터디"
-type: "study"
+type: "🧪 데이터 분석가들의 프로덕트 스터디"
 blog: true
 text: true
 author: Minju Kim

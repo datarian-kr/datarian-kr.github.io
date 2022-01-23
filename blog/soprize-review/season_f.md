@@ -2,7 +2,7 @@
 layout: post
 title:  "한국 기후위기 데이터로 글쓰고 100만원 받기"
 subtitle: "쏘프라이즈 프리시즌 F 참가후기"
-type: "study"
+type: "🧪 데이터 분석가들의 케이스 스터디"
 blog: true
 text: true
 author: Bomin Lee

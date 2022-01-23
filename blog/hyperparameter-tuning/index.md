@@ -2,7 +2,7 @@
 layout: post
 title:  "Grid Search vs Random Search"
 subtitle: "하이퍼 파라미터 최적화"
-type: "Machine Learning"
+type: "👩🏻‍💻 데이터 분석을 위한"
 blog: true
 text: true
 author: Sunmi Yoon

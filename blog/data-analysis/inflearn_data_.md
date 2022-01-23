@@ -2,7 +2,7 @@
 layout: post
 title:  "인프런 지식 공유자는 이런 데이터가 궁금해요!"
 subtitle: "알고 싶은 데이터부터 활용 방안까지"
-type: "Data Analysis"
+type: "🧪 데이터 분석가들의 케이스 스터디"
 blog: true
 text: true
 author: S
