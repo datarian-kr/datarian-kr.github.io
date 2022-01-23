@@ -21,7 +21,7 @@
                     <a href="{{ '/bootcamp' | prepend: site.baseurl }}" style="color:rgb(237, 78, 20)"{% if current[1]=="bootcamp" %} class="active" {% endif %}>Bootcamp</a>
                 </li>
                 <li class="transition">
-                    <a href="{{ '/blog' | prepend: site.baseurl }}" target="_blank" {% if current[1]=="blog" %} class="active" {% endif %}>Blog</a>
+                    <a href="{{ '/blog' | prepend: site.baseurl }}" {% if current[1]=="blog" %} class="active" {% endif %}>Blog</a>
                 </li>
                 <li class="transition">
                     <a href="{{ '/member' | prepend: site.baseurl }}" {% if current[1]=="member" %} class="active" {% endif %}>Members</a>

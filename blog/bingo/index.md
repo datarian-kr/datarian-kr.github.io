@@ -2,7 +2,7 @@
 layout: post
 title:  "데이터 분석가 빙고"
 subtitle: "#데이터리안 #분석가빙고"
-type: "etc"
+type: "🤸‍♀️ 데이터리안 일상"
 blog: true
 text: true
 author: Sunmi Yoon

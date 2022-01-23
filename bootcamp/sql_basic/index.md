@@ -145,7 +145,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 ![divider](img/divider.png)
 
 <h4>1주차</h4>
-<div style="padding:10px; padding-bottom:2px; border-radius:5px; background-color:#eeeeee;">
+<div style="padding:10px; padding-bottom:2px; border-radius:5px; background-color:#f5f5f5;">
 <p style="font-size:14px;">💡데이터 분석을 위해 SQL을 배운다면 가장 중요한 건 실제 사용할 수 있느냐 하는 것이겠죠? 이론만 배우면 써먹을 수 없으니 입문반은 첫 시간부터 한번 무작정 SQL을 사용해서 데이터를 뽑아봅니다.<br><br>&nbsp;&nbsp;&nbsp;문법, 몰라도 괜찮아요. 강사님과 함께 차근차근 하다보면 어느새 SELECT, FROM이 익숙해질거에요.</p>
 </div>
 <div style="line-height:170%;font-size:12px">
@@ -168,7 +168,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 <p style="font-size:14px;">👇 누르면 상세 내용을 볼 수 있어요</p>
 <details>
     <summary><strong>2주차</strong></summary>
-    <div style="padding:10px; padding-bottom:2px; border-radius:5px; background-color:#eeeeee;">
+    <div style="padding:10px; padding-bottom:2px; border-radius:5px; background-color:#f5f5f5;">
     <p style="font-size:14px;">💡1주차에는 SQL 맛보기를 했다면 이제 진짜 SQL을 본격적으로 공부해볼 시간입니다. 그래도 한번 봤다고 익숙해졌죠?<br><br>&nbsp;&nbsp;&nbsp;하지만 여전히 SQL 어디에 어떻게 쓸 수 있는지 감이 잘 안잡히시는 분들도 있을 거에요. 그래서 2주차에서는 간단하게 데이터베이스 이야기를 먼저 하고 SQL 문법이야기로 다시 넘어갑니다.</p>
     </div>
     <div style="line-height:170%;font-size:12px">
@@ -192,7 +192,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 </details>
 <details>
     <summary><strong>3주차</strong></summary>
-    <div style="padding:10px; padding-bottom:2px; border-radius:5px; background-color:#eeeeee;">
+    <div style="padding:10px; padding-bottom:2px; border-radius:5px; background-color:#f5f5f5;">
     <p style="font-size:14px;">💡입문반의 75%가 완성되었네요. 이제 SQL에 대해서 어느정도 아시는 상태가 되셨을거라고 생각합니다. 드디어 실무에서 매일같이 쓰이는 SQL 문법에 대해 알려드릴 수 있어요!<br><br>&nbsp;&nbsp;&nbsp;3주차 수업에서는 분석가 4명이 머리를 모아 만든 실무에 가까운 문제들을 풀어보며 SQL을 실제 어떻게 쓰는지 감을 잡으실 수 있을 거에요.</p>
     </div>
     <div style="line-height:170%;font-size:12px">
@@ -215,7 +215,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 </details>
 <details>
     <summary><strong>4주차</strong></summary>
-    <div style="padding:10px; padding-bottom:2px; border-radius:5px; background-color:#eeeeee;">
+    <div style="padding:10px; padding-bottom:2px; border-radius:5px; background-color:#f5f5f5;">
     <p style="font-size:14px;">💡대망의 4주차 입니다! 여기까지 따라오시면 SQL을 이용하여 실제 데이터를 원하는 대로 가공하여 추출하기위한 기초적인 지식은 모두 습득하시게 될거에요.<br><br>&nbsp;&nbsp;&nbsp;특히 SQL의 꽃이라고 부를 수 있는 JOIN 을 마스터하면 여러 테이블을 연결하여 분석을 할 수 있게 됩니다.</p>
     </div>
     <div style="line-height:170%;font-size:12px">
@@ -321,7 +321,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 </div>
 
 <h4>Q. 데이터 분석가를 준비하는 분들에게 해주고 싶은 말</h4>
-<div style="padding:10px; padding-bottom:2px; border-radius:5px; background-color:#eeeeee;">
+<div style="padding:10px; padding-bottom:2px; border-radius:5px; background-color:#f5f5f5;">
 <p style="font-size:16px">이전 직장에서 다른 직무로 근무하면서 엑셀로 간단한 데이터 분석을 해보고 차트도 만들어보다가 데이터 분석에 흥미가 생겼어요. 더 공부해보려고 데이터 분석 관련한 강의를 여기저기서 많이 들었는데 현업 데이터를 쓸 기회가 없으니까 단순히 강의로 듣고 끝나는 수준이었어요. '이런 코드 쓰시면 돼요, 결과가 이렇게 나오죠?' 하고 알려주니까 강의 들으면서 따라칠 때는 되는데 막상 혼자하려면 아무것도 안 되더라구요. 그런 들으나 마나한 무의미한 강의를 여러번 듣고 나서 선미님의 SQL 강의를 듣게 되었습니다.<br><br>
 <strong>생각해보면 데이터를 분석하는 툴은 도구일 뿐이고 어떻게 인사이트를 발견해내는지가 가장 중요해요.</strong> 데이터 사이언스 팀에서는 파이썬이나 고도화된 모델을 쓰겠지만 비즈니스 분석가의 경우 SQL 만 잘 써도 충분해요. 저는 처음부터 딱 그 수준의 데이터 분석가가 되고 싶었는데 이런 얘기를 해주는 사람이 없어서 어려운 논문 봐가면서 AI 나 머신러닝 공부하면서 시행착오를 많이 겪었어요. <br><br>
 <strong>데이터 분석의 기본은 SQL 이라고 생각합니다.</strong> 현업에서 가장 많이 쓰고 피부로 와닿는 스킬인만큼 분석가로서 첫발을 내딛는 데 아주 좋은 시작이 될 것 같아요.</p>
@@ -330,7 +330,7 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 <br>
 </div>
 <h4>Q. 백문이불여일타 SQL 캠프 수강을 망설이는 분들에게</h4>
-<div style="padding:10px; padding-bottom:2px; border-radius:5px; background-color:#eeeeee;">
+<div style="padding:10px; padding-bottom:2px; border-radius:5px; background-color:#f5f5f5;">
 <p style="font-size:16px">선미님이 업계 경력이 있으시다보니 실무에서 사용하는 것과 비슷한 프로젝트를 경험하게 해주셔서 현업에서 큰 도움이 되었습니다. 프로젝트를 해보면서 단순히 SQL 쿼리를 짜는데서 끝나는 게 아니라 인사이트를 뽑고 서비스에 어떻게 도움이 될지 고민해보는 경험이 현업에서 도움이 많이 되었어요.<br><br>
 선미님의 SQL 강의가 저를 취업시켰다고 생각합니다. 이 이상의 SQL 강의는 필요하지 않았어요.</p>
 </div>

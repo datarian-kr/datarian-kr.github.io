@@ -2,7 +2,7 @@
 layout: post
 title:  "2020 현업 분석가 3인 선데이 아점 토크 _ 4화"
 subtitle: "앞으로 우리가 나아갈 길, 2020 데이터리안 첫번째 웨비나를 마치며"
-type: "webinar"
+type: "🤸‍♀️ 데이터리안 일상"
 blog: true
 text: true
 author: Bomin Lee

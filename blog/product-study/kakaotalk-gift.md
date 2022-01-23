@@ -2,7 +2,7 @@
 layout: post
 title:  "내가 만약 카톡 선물하기의 분석가라면"
 subtitle: "데이터리안 프로덕트 스터디"
-type: "study"
+type: "🧪 데이터 분석가들의 프로덕트 스터디"
 blog: true
 text: true
 author: Bomin Lee

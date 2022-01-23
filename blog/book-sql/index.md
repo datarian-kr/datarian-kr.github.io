@@ -2,7 +2,7 @@
 layout: post
 title:  "데이터 분석을 위한 SQL 참고도서 추천"
 subtitle: "데이터리안의 SQL 강의를 수강한 분들을 위해 SQL 책, 웹 자료를 추천합니다"
-type: "sql"
+type: "👩🏻‍💻 데이터 분석을 위한"
 blog: true
 text: true
 author: Sunmi Yoon

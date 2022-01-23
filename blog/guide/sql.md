@@ -2,7 +2,7 @@
 layout: post
 title:  "[백문이불여일타] SQL 시리즈 강의 가이드"
 subtitle: "SQL을 공부하려고 하는 모든 분들에게 백문의불여일타 SQL 시리즈를 추천합니다."
-type: "강의가이드"
+type: "👩🏻‍💻 데이터 분석을 위한"
 blog: true
 text: true
 author: Bomin Lee
