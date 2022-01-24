@@ -13,8 +13,12 @@ description: "4주 동안 SQL 고급 문법부터 실전 데이터 분석 프로
 order: 1
 ---
 <!--post 베이스로 레이아웃 새로 만들기-->
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/l4_axJ8KKos?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p style="color:gray;font-size:16px;">백문이불여일타 SQL 캠프 입문반 오리엔테이션 일부를 미리 보여드립니다</p>
+<!-- <iframe width="100%" height="400" src="https://www.youtube.com/embed/l4_axJ8KKos?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="color:gray;font-size:16px;">백문이불여일타 SQL 캠프 입문반 오리엔테이션 일부를 미리 보여드립니다</p> -->
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/QnJaEPDAmhk?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="color:gray;font-size:14px;">데이터리안 Youtube 영상 <비전공자도 데이터 분석가 될 수 있나요?> 중에서</p>
 <br>
 
 <p style="font-size:16px;">
