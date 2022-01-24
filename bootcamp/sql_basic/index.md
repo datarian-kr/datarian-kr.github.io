@@ -335,7 +335,12 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 선미님의 SQL 강의가 저를 취업시켰다고 생각합니다. 이 이상의 SQL 강의는 필요하지 않았어요.</p>
 </div>
 <br>
+<details>
+<summary style="font-size:16px"><strong>인터뷰 Full 영상 보기</strong></summary>
+    <iframe width="100%" height="400" src="https://www.youtube.com/embed/QnJaEPDAmhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
 
+<br>
 <!-- <h2 id="review">수강생 후기</h2> -->
 <h2>수강생 후기</h2>
 
@@ -416,6 +421,19 @@ DS스쿨 데이터 사이언스 입문반 강사 (2019~2020)
 * 기수별 최소인원(10명)이 충족되지 않을 경우 오픈이 취소될 수 있습니다.
 </p>
 <img src="img/calendar_feb_fri.png" alt="입문과정 2월 금요일반 온라인 세션 일정" width="500">
+
+#### <a href="https://forms.gle/ZVtSLY4334KhiaA49" class="basic-form-button" target="_blank" style="color:rgb(237, 78, 20)">👉 입문반 정규과정 신청하기</a>
+
+<br>
+#### 🙋🏻‍♀️ **입문반 3기 (3월 월요일반)**
+<p style="color:gray;font-size:16px;">
+<strong>온라인 세션</strong>: 3/7, 3/14, 3/21, 3/28 (총 4회) <br><strong>매주 월요일</strong> 19:30 ~ 21:30 (2시간)
+<br>
+* 선착순 30명
+<br>
+* 기수별 최소인원(10명)이 충족되지 않을 경우 오픈이 취소될 수 있습니다.
+</p>
+<img src="img/calendar_mar_mon.png" alt="입문과정 3월 월요일반 온라인 세션 일정" width="500">
 
 #### <a href="https://forms.gle/ZVtSLY4334KhiaA49" class="basic-form-button" target="_blank" style="color:rgb(237, 78, 20)">👉 입문반 정규과정 신청하기</a>
 
