@@ -38,7 +38,7 @@ order: 1
 
 ![divider](img/divider.png)
 
-<img src="img/intro.png" alt="백문이불여일타 SQL 캠프 실전반 세부 구성" width="500">
+<img src="img/intro.png" alt="백문이불여일타 SQL 캠프 실전반 세부 구성" width="550">
 
 <br>
 ## 이번 달에 시작하면 4주 뒤엔 아래 질문에 답할 수 있어요
