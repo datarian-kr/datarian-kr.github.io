@@ -24,7 +24,7 @@ project-header: true
 <br>
 <a href="https://forms.gle/1exA21BEqXAfXtvf8" class="python-basic-noti-form-button" style="color: gray" target="_blank"><strong>🐍 [4주완성] 데이터 분석을 위한 파이썬 입문반</strong></a>
 <br>
-<a href="{https://forms.gle/1exA21BEqXAfXtvf8" class="python-visualization-noti-form-button" style="color: gray" target="_blank"><strong>📊 [4주완성] 데이터 분석을 위한 파이썬 시각화</strong></a>
+<a href="https://forms.gle/1exA21BEqXAfXtvf8" class="python-visualization-noti-form-button" style="color: gray" target="_blank"><strong>📊 [4주완성] 데이터 분석을 위한 파이썬 시각화</strong></a>
 <br>
 <br> -->
 
@@ -81,7 +81,7 @@ project-header: true
                         <a href="https://forms.gle/1exA21BEqXAfXtvf8" class="python-basic-noti-form-button" style="font-size:15px;color: gray" target="_blank">🐍 [4주완성] 데이터 분석을 위한 파이썬 입문반</a>
                     </li>
                     <li class="skill_name">
-                    <a href="{https://forms.gle/1exA21BEqXAfXtvf8" class="python-visualization-noti-form-button" style="font-size:15px;color: gray" target="_blank">📊 [4주완성] 데이터 분석을 위한 파이썬 시각화</a>
+                    <a href="https://forms.gle/1exA21BEqXAfXtvf8" class="python-visualization-noti-form-button" style="font-size:15px;color: gray" target="_blank">📊 [4주완성] 데이터 분석을 위한 파이썬 시각화</a>
                     </li>
                 </ul>
             </div>
