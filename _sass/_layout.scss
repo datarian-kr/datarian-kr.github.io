@@ -26,6 +26,7 @@ footer>.footer_wrap,
     position: sticky; 
     top: 0;
     background-color: white;
+    z-index: 100;
     &-container {
         margin: 0 auto;
         padding-bottom: 10px;
