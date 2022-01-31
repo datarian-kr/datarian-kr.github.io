@@ -22,10 +22,14 @@ footer>.footer_wrap,
 .nav {
     overflow: auto;
     padding: 24px 0;
+    position: -webkit-sticky; 
+    position: sticky; 
+    top: 0;
+    background-color: white;
+    z-index: 100;
     &-container {
         margin: 0 auto;
         padding-bottom: 10px;
-        position: relative;
     }
 }
 
