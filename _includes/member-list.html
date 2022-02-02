@@ -5,7 +5,7 @@
             <p class="catalogue-type transition">
                 {{ member.role }}
             </p>
-            {% if member.name == 'Sunmi Yoon' or member.name == 'Bomin Lee' or member.name == 'Yeeun Han' %}
+            {% if member.github != nil %}
             <a href = "{{ member.github }}">
                 <div class="catalogue-info transition">
                     <h1 class="catalogue-title">
