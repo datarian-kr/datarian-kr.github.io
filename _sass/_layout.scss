@@ -47,9 +47,9 @@ ul {
         font-family: $source;
         display: inline-block;
         margin: 0 40px 0 0;
-        // &:last-child {
-        //     margin-right: 0;
-        // }
+        &:last-child {
+            margin-right: 0;
+        }
         @media (max-width: $break-small) {
             margin: 0 24px 0 0;
             font-size: 16px;
@@ -89,8 +89,6 @@ ul {
         display: none;
         position: absolute;
         background-color: #f1f1f1;
-        // width: 12rem;
-        // box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
         z-index: 1;
     }
     
@@ -135,10 +133,6 @@ ul {
     font-weight: 500;
     border-style: none;
     padding-bottom: 0;
-}
-
-a {
-    //    color: $grey-0;
 }
 
 .post-img img {
