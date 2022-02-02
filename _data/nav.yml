@@ -1,4 +1,16 @@
-- name: Work
+- name: Datarian
+  url : /
+- name: Bootcamp
+  url : /bootcamp
 - name: Blog
-- name: Member
-- name: About
+  url : /blog
+- name: Mmebers
+  url : /member
+- name : 신청하기
+  apply_button:
+  - name : 입문반 신청하기
+    url : https://forms.gle/AXiyt8sMQcVEgbPW7
+  - name : 실전반 신청하기
+    url : https://forms.gle/tRPrpuGEqm3AMXSr8
+  - name : 패키지 신청하기
+    url : https://forms.gle/HkTPEsHGqEQQCjhz9
