@@ -7,7 +7,7 @@ members:
       - Data Analysis
       - Data Analysis Education
     contact: ysunmi0427@gmail.com
-    github: https://www.notion.so/sunmiyoon/20f25abf77114eb2bafd72c7bd597166
+    github: https://www.linkedin.com/in/yoonsunmi/ 
 
   - role: Product Manager
     name: Bomin Lee
@@ -17,7 +17,7 @@ members:
       - Data Analysis
       - Project Management
     contact: bominlee24@gmail.com
-    github: https://github.com/springkind
+    github: https://lbm.oopy.io/
 
   - role: Product Manager, Designer, Developer
     name: Yeeun Han
@@ -38,7 +38,7 @@ members:
       - Data Analysis
       - Project Management
     contact: jaemin.jeon.chun@gmail.com
-    github: https://github.com/jaem1n
+    # github: https://github.com/jaem1n
 
   - role: Developer
     name: Hanseul Wang
@@ -49,7 +49,7 @@ members:
       - Data visualization
       - Software development
     contact: w.hanseul@gmail.com
-    github: https://github.com/failed-commune
+    # github: https://github.com/failed-commune
 
   - role: Data Analyst
     name: Dahye Kim
@@ -59,7 +59,7 @@ members:
       - Data Analysis
       - Project Management
     contact: dahye.data@gmail.com
-    github: https://github.com/eyhadmik
+    # github: https://github.com/eyhadmik
 
   - role: Data Analyst
     name: Minju Kim
@@ -68,7 +68,7 @@ members:
     skills:
       - Data Analysis
     contact: kim4pb@gmail.com
-    github: https://linktr.ee/minju.mores
+    # github: https://linktr.ee/minju.mores
 
   - role: Data Analyst, Product Manager
     name: S
@@ -78,7 +78,7 @@ members:
       - Data Analysis
       - Project Management
     contact:
-    github:
+    # github:
 
   - role: Data Analyst
     name: Yeseul Bae
@@ -91,13 +91,13 @@ members:
     github: https://github.com/yeseul0806
 
   - role: Data Analyst
-    name: Sooyeon Lee :)
+    name: Sooyeon Lee
     bio: 미래의 불확실성을 즐겨보기로한 Junior Data Analyst
     img: /member/img/img_sooyeon.jpg
     skills:
       - Data Analysis(SAS, Python)
     contact: yololife.sy@gmail.com
-    github: https://github.com/Celine96
+    # github: https://github.com/Celine96
 
   - role: Data Analyst
     name: Bokyung Jung
@@ -106,4 +106,4 @@ members:
     skills:
       - Data Analysis
     contact: alicebk221@gmail.com
-    github: https://github.com/alicebk221
+    # github: https://github.com/alicebk221
